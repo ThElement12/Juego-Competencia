@@ -6,6 +6,7 @@ public class Movimiento : MonoBehaviour
 {
 
     public float Velocidad = 0;
+    private float tempVel = 0f; //para guardar la velocidad inicial digitada 
     public Animator animator;
     private float movHorizontal = 0f; //parametro para hacer transicion entre la animacion iddle y caminar
     private float movVertical = 0f;
@@ -16,7 +17,7 @@ public class Movimiento : MonoBehaviour
     {
         
         animator = transform.GetComponent<Animator>();
-        
+        tempVel = Velocidad;
     }
 
     // Update is called once per frame
@@ -34,7 +35,7 @@ public class Movimiento : MonoBehaviour
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",false);
-            moverse();
+         
 
         }
         else if(Input.GetKey(KeyCode.D)){
@@ -42,7 +43,7 @@ public class Movimiento : MonoBehaviour
             animator.SetBool("teclaDerecha",true);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",false);
-            moverse();
+  
             // animator.SetFloat("speed",0);
         }
         else if(Input.GetKey(KeyCode.W)){
@@ -50,7 +51,7 @@ public class Movimiento : MonoBehaviour
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",true);
             animator.SetBool("teclaAbajo",false);
-            moverse();
+            
         }
         else if(Input.GetKey(KeyCode.S)){
             animator.SetBool("teclaIzquierda",false);
@@ -60,19 +61,19 @@ public class Movimiento : MonoBehaviour
             moverse();
         }
 
-        
+           moverse();
        
       
     }
 
     void moverse(){
-        gameObject.transform.Translate(new Vector3(Input.GetAxis("Horizontal") * Velocidad * Time.deltaTime,Input.GetAxis("Vertical")) * Velocidad * Time.deltaTime);
+        gameObject.transform.Translate(new Vector3(Input.GetAxis("Horizontal"),Input.GetAxis("Vertical")) * Velocidad * Time.deltaTime);
        
        //Sprintear
        if(Input.GetKey(KeyCode.LeftShift)){
-           Velocidad = 15; //velocidad de corrida
+           Velocidad = 12; //velocidad de corrida
        }else{
-           Velocidad = 11; //velocidad normal caminando
+           Velocidad = tempVel; //velocidad normal caminando
        }
     }
 }
