@@ -34,42 +34,45 @@ public class Movimiento : MonoBehaviour
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",false);
-            
+            moverse();
+
         }
-        if(Input.GetKey(KeyCode.D)){
+        else if(Input.GetKey(KeyCode.D)){
             animator.SetBool("teclaIzquierda",false);
             animator.SetBool("teclaDerecha",true);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",false);
-           // animator.SetFloat("speed",0);
+            moverse();
+            // animator.SetFloat("speed",0);
         }
-        if(Input.GetKey(KeyCode.W)){
+        else if(Input.GetKey(KeyCode.W)){
             animator.SetBool("teclaIzquierda",false);
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",true);
             animator.SetBool("teclaAbajo",false);
-            
+            moverse();
         }
-        if(Input.GetKey(KeyCode.S)){
+        else if(Input.GetKey(KeyCode.S)){
             animator.SetBool("teclaIzquierda",false);
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",true);
+            moverse();
         }
 
-        moverse();
+        
        
       
     }
 
     void moverse(){
-      this.transform.Translate(new Vector3(Input.GetAxis("Horizontal"),Input.GetAxis("Vertical")) * Velocidad);
+        gameObject.transform.Translate(new Vector3(Input.GetAxis("Horizontal") * Velocidad * Time.deltaTime,Input.GetAxis("Vertical")) * Velocidad * Time.deltaTime);
        
        //Sprintear
        if(Input.GetKey(KeyCode.LeftShift)){
-           Velocidad = 0.1f; //velocidad de corrida
+           Velocidad = 15; //velocidad de corrida
        }else{
-           Velocidad = 0.04f; //velocidad normal caminando
+           Velocidad = 11; //velocidad normal caminando
        }
     }
 }
