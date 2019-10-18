@@ -58,7 +58,7 @@ public class Movimiento : MonoBehaviour
             animator.SetBool("teclaDerecha",false);
             animator.SetBool("teclaArriba",false);
             animator.SetBool("teclaAbajo",true);
-            moverse();
+            
         }
 
            moverse();
