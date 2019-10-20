@@ -1,0 +1,7603 @@
+fileFormatVersion: 2
+guid: 777fddb45b8f26c4eb28c485bf1c12c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2888427252096979072
+    second: mockup_0
+  - first:
+      213: 5865110138269528773
+    second: mockup_1
+  - first:
+      213: 3327274352691754004
+    second: mockup_2
+  - first:
+      213: 702993174913099476
+    second: mockup_3
+  - first:
+      213: 5484203052623828037
+    second: mockup_4
+  - first:
+      213: 2979764389279299
+    second: mockup_5
+  - first:
+      213: 3838483058914842864
+    second: mockup_6
+  - first:
+      213: -1088202418300401282
+    second: mockup_7
+  - first:
+      213: -2830251380701082588
+    second: mockup_8
+  - first:
+      213: 908911856991562527
+    second: mockup_9
+  - first:
+      213: -5430141392932049234
+    second: mockup_10
+  - first:
+      213: -6282994990157695922
+    second: mockup_11
+  - first:
+      213: 5942839776865027404
+    second: mockup_12
+  - first:
+      213: 6672841453653256615
+    second: mockup_13
+  - first:
+      213: -785323907947507295
+    second: mockup_14
+  - first:
+      213: -1206044615620886931
+    second: mockup_15
+  - first:
+      213: 8165662021298212768
+    second: mockup_16
+  - first:
+      213: -6326332379483210795
+    second: mockup_17
+  - first:
+      213: 5072238462175497946
+    second: mockup_18
+  - first:
+      213: 1543064681162821468
+    second: mockup_19
+  - first:
+      213: 6568180688555781646
+    second: mockup_20
+  - first:
+      213: 1832252667426439217
+    second: mockup_21
+  - first:
+      213: -4028312046827759417
+    second: mockup_22
+  - first:
+      213: -5787900878930137259
+    second: mockup_23
+  - first:
+      213: 2489455398172654348
+    second: mockup_24
+  - first:
+      213: -6182515049905002151
+    second: mockup_25
+  - first:
+      213: 7588004832778410211
+    second: mockup_26
+  - first:
+      213: -2434214834764492167
+    second: mockup_27
+  - first:
+      213: 7466569535667620851
+    second: mockup_28
+  - first:
+      213: -6244521891231776788
+    second: mockup_29
+  - first:
+      213: 6918173998803486295
+    second: mockup_30
+  - first:
+      213: -8970073240520322177
+    second: mockup_31
+  - first:
+      213: 2441036390362928549
+    second: mockup_32
+  - first:
+      213: -2944482214547674307
+    second: mockup_33
+  - first:
+      213: -1107825532960478311
+    second: mockup_34
+  - first:
+      213: 2819508444303046090
+    second: mockup_35
+  - first:
+      213: -4891168255952484652
+    second: mockup_36
+  - first:
+      213: 4352844835962789297
+    second: mockup_37
+  - first:
+      213: 3874865182102479672
+    second: mockup_38
+  - first:
+      213: -5074692959066117774
+    second: mockup_39
+  - first:
+      213: 4160371734465784315
+    second: mockup_40
+  - first:
+      213: 5156515536792492639
+    second: mockup_41
+  - first:
+      213: -2516417850181535701
+    second: mockup_42
+  - first:
+      213: -2719017244712613855
+    second: mockup_43
+  - first:
+      213: -3547529791352830144
+    second: mockup_44
+  - first:
+      213: 6326712471333552711
+    second: mockup_45
+  - first:
+      213: -1189618641493609934
+    second: mockup_46
+  - first:
+      213: -8519457981052749514
+    second: mockup_47
+  - first:
+      213: -711616022388601512
+    second: mockup_48
+  - first:
+      213: 3747762902128518147
+    second: mockup_49
+  - first:
+      213: 785401933641374844
+    second: mockup_50
+  - first:
+      213: -2626831427778308353
+    second: mockup_51
+  - first:
+      213: -4665910680743964991
+    second: mockup_52
+  - first:
+      213: -4564821950288842957
+    second: mockup_53
+  - first:
+      213: -6583414132333125179
+    second: mockup_54
+  - first:
+      213: -4949025414219735732
+    second: mockup_55
+  - first:
+      213: -288712747206262561
+    second: mockup_56
+  - first:
+      213: 2418693757852022783
+    second: mockup_57
+  - first:
+      213: -456433632058911445
+    second: mockup_58
+  - first:
+      213: 8915567694629117843
+    second: mockup_59
+  - first:
+      213: 2152992549963039130
+    second: mockup_60
+  - first:
+      213: 4540174001437435998
+    second: mockup_61
+  - first:
+      213: 1785371480852719828
+    second: mockup_62
+  - first:
+      213: -5242919413447088503
+    second: mockup_63
+  - first:
+      213: -5038531334541908105
+    second: mockup_64
+  - first:
+      213: -6308254176580508101
+    second: mockup_65
+  - first:
+      213: -5161721671509774158
+    second: mockup_66
+  - first:
+      213: -893353896329381915
+    second: mockup_67
+  - first:
+      213: -6876970212278356036
+    second: mockup_68
+  - first:
+      213: -1399506347153019448
+    second: mockup_69
+  - first:
+      213: -2418188266564944007
+    second: mockup_70
+  - first:
+      213: 99849986928130454
+    second: mockup_71
+  - first:
+      213: -3991289270912856073
+    second: mockup_72
+  - first:
+      213: -1601350479954744496
+    second: mockup_73
+  - first:
+      213: 129316611330803085
+    second: mockup_74
+  - first:
+      213: 1392377746701612987
+    second: mockup_75
+  - first:
+      213: 9065286158772568761
+    second: mockup_76
+  - first:
+      213: -292901822630432059
+    second: mockup_77
+  - first:
+      213: -2921118717128260719
+    second: mockup_78
+  - first:
+      213: -7688078048042433255
+    second: mockup_79
+  - first:
+      213: -2958997417633451961
+    second: mockup_80
+  - first:
+      213: 7217931397292097719
+    second: mockup_81
+  - first:
+      213: 5572742201537116100
+    second: mockup_82
+  - first:
+      213: 2225770983370118876
+    second: mockup_83
+  - first:
+      213: -7327722663119401175
+    second: mockup_84
+  - first:
+      213: -5424031563593736699
+    second: mockup_85
+  - first:
+      213: -4209067111702443710
+    second: mockup_86
+  - first:
+      213: -7806722002187495077
+    second: mockup_87
+  - first:
+      213: 156873319537127077
+    second: mockup_88
+  - first:
+      213: -2330198677768897109
+    second: mockup_89
+  - first:
+      213: -6873286469684215984
+    second: mockup_90
+  - first:
+      213: -549575477295642576
+    second: mockup_91
+  - first:
+      213: -4266921249064819847
+    second: mockup_92
+  - first:
+      213: 9005466146898210730
+    second: mockup_93
+  - first:
+      213: -1641606198465743773
+    second: mockup_94
+  - first:
+      213: -4808431991529921443
+    second: mockup_95
+  - first:
+      213: 6977724281136595608
+    second: mockup_96
+  - first:
+      213: -460469914760382439
+    second: mockup_97
+  - first:
+      213: 4387451839154230209
+    second: mockup_98
+  - first:
+      213: -7009993345026552612
+    second: mockup_99
+  - first:
+      213: 3101714657925569078
+    second: mockup_100
+  - first:
+      213: 698282309224881506
+    second: mockup_101
+  - first:
+      213: 490971589380415991
+    second: mockup_102
+  - first:
+      213: 866492217279533046
+    second: mockup_103
+  - first:
+      213: -2622733593736886523
+    second: mockup_104
+  - first:
+      213: 8121138918263456493
+    second: mockup_105
+  - first:
+      213: 2334951344796739254
+    second: mockup_106
+  - first:
+      213: -191554352849641268
+    second: mockup_107
+  - first:
+      213: 5481765489875786388
+    second: mockup_108
+  - first:
+      213: 746268687050734901
+    second: mockup_109
+  - first:
+      213: 831743337207801033
+    second: mockup_110
+  - first:
+      213: 4668921086195318663
+    second: mockup_111
+  - first:
+      213: -7070868979594689886
+    second: mockup_112
+  - first:
+      213: 4409199121360383415
+    second: mockup_113
+  - first:
+      213: -4196129749272577657
+    second: mockup_114
+  - first:
+      213: -5661297525847140246
+    second: mockup_115
+  - first:
+      213: 7901783505594885365
+    second: mockup_116
+  - first:
+      213: -4864047313193317526
+    second: mockup_117
+  - first:
+      213: -7684403560744850437
+    second: mockup_118
+  - first:
+      213: -1037090425356341674
+    second: mockup_119
+  - first:
+      213: 8608902988044682021
+    second: mockup_120
+  - first:
+      213: 4172572112775844148
+    second: mockup_121
+  - first:
+      213: -815139732626889688
+    second: mockup_122
+  - first:
+      213: -705084462841307815
+    second: mockup_123
+  - first:
+      213: 7282470078451702935
+    second: mockup_124
+  - first:
+      213: 2707504038126728861
+    second: mockup_125
+  - first:
+      213: 6822979036290109394
+    second: mockup_126
+  - first:
+      213: 5063233858953514525
+    second: mockup_127
+  - first:
+      213: -8608194918627709115
+    second: mockup_128
+  - first:
+      213: -8937089597310639128
+    second: mockup_129
+  - first:
+      213: -7015764784890581429
+    second: mockup_130
+  - first:
+      213: 4161508779632569623
+    second: mockup_131
+  - first:
+      213: 7148228902852249859
+    second: mockup_132
+  - first:
+      213: 7157809353679870706
+    second: mockup_133
+  - first:
+      213: 6409867633148885046
+    second: mockup_134
+  - first:
+      213: 4696984128796905624
+    second: mockup_135
+  - first:
+      213: 3566894176514922612
+    second: mockup_136
+  - first:
+      213: 5830770434550384021
+    second: mockup_137
+  - first:
+      213: 5290002525248515303
+    second: mockup_138
+  - first:
+      213: 4877509376987943841
+    second: mockup_139
+  - first:
+      213: 7095388307912965104
+    second: mockup_140
+  - first:
+      213: 2450555418626161331
+    second: mockup_141
+  - first:
+      213: 6602440373348568747
+    second: mockup_142
+  - first:
+      213: 6165229895741237024
+    second: mockup_143
+  - first:
+      213: -7558805606360954168
+    second: mockup_144
+  - first:
+      213: -3652028052115310341
+    second: mockup_145
+  - first:
+      213: -6501445234972394995
+    second: mockup_146
+  - first:
+      213: -1614920134280253788
+    second: mockup_147
+  - first:
+      213: -6253868492848425265
+    second: mockup_148
+  - first:
+      213: -1849012808604529884
+    second: mockup_149
+  - first:
+      213: -1274213641171022834
+    second: mockup_150
+  - first:
+      213: 7591705969252228586
+    second: mockup_151
+  - first:
+      213: -7592245101195903650
+    second: mockup_152
+  - first:
+      213: 5153357131345052131
+    second: mockup_153
+  - first:
+      213: -7871293019849362804
+    second: mockup_154
+  - first:
+      213: 4394485293130509701
+    second: mockup_155
+  - first:
+      213: 3454053624710821559
+    second: mockup_156
+  - first:
+      213: 4509393019875305440
+    second: mockup_157
+  - first:
+      213: -7469965845726832367
+    second: mockup_158
+  - first:
+      213: -6287521049620667729
+    second: mockup_159
+  - first:
+      213: -3285503073998200294
+    second: mockup_160
+  - first:
+      213: -1392679292194257755
+    second: mockup_161
+  - first:
+      213: -3217944382588030428
+    second: mockup_162
+  - first:
+      213: -8687025561360267185
+    second: mockup_163
+  - first:
+      213: -3718250857173795559
+    second: mockup_164
+  - first:
+      213: -3959137990600899830
+    second: mockup_165
+  - first:
+      213: 2169128987045697410
+    second: mockup_166
+  - first:
+      213: 6630246121005782538
+    second: mockup_167
+  - first:
+      213: 4594519481152338976
+    second: mockup_168
+  - first:
+      213: 5680300340728685471
+    second: mockup_169
+  - first:
+      213: 7488537710511733987
+    second: mockup_170
+  - first:
+      213: -3311386532176036934
+    second: mockup_171
+  - first:
+      213: 2076621644958130008
+    second: mockup_172
+  - first:
+      213: -7594713463430399261
+    second: mockup_173
+  - first:
+      213: 5423048391825676462
+    second: mockup_174
+  - first:
+      213: 3157184922410962191
+    second: mockup_175
+  - first:
+      213: 4252244102839180056
+    second: mockup_176
+  - first:
+      213: -9128481948507703089
+    second: mockup_177
+  - first:
+      213: 1655371347524686208
+    second: mockup_178
+  - first:
+      213: 7449403902044381629
+    second: mockup_179
+  - first:
+      213: -5722676482858881629
+    second: mockup_180
+  - first:
+      213: -622441801973691893
+    second: mockup_181
+  - first:
+      213: 2994436208809720477
+    second: mockup_182
+  - first:
+      213: 6462715569637734418
+    second: mockup_183
+  - first:
+      213: 4930471021144826409
+    second: mockup_184
+  - first:
+      213: -5785904913237294048
+    second: mockup_185
+  - first:
+      213: 4082051602048389044
+    second: mockup_186
+  - first:
+      213: 1901090454985106863
+    second: mockup_187
+  - first:
+      213: -8673428285570006
+    second: mockup_188
+  - first:
+      213: 8579766812086547330
+    second: mockup_189
+  - first:
+      213: -3051177838092704700
+    second: mockup_190
+  - first:
+      213: 4722602542489151603
+    second: mockup_191
+  - first:
+      213: -6468398821380097700
+    second: mockup_192
+  - first:
+      213: -4475929470977707582
+    second: mockup_193
+  - first:
+      213: -4292336374658065891
+    second: mockup_194
+  - first:
+      213: -2197979300139764154
+    second: mockup_195
+  - first:
+      213: 3262087353030084708
+    second: mockup_196
+  - first:
+      213: 4667803461951958007
+    second: mockup_197
+  - first:
+      213: 1112058893777915923
+    second: mockup_198
+  - first:
+      213: -2828597736918028549
+    second: mockup_199
+  - first:
+      213: 3380293736030574863
+    second: mockup_200
+  - first:
+      213: 4448742868910861731
+    second: mockup_201
+  - first:
+      213: 4748349553294104487
+    second: mockup_202
+  - first:
+      213: 7365026658497766757
+    second: mockup_203
+  - first:
+      213: 4685910847369191065
+    second: mockup_204
+  - first:
+      213: -3381174516081991393
+    second: mockup_205
+  - first:
+      213: -3065801675937985124
+    second: mockup_206
+  - first:
+      213: 6103427902721947172
+    second: mockup_207
+  - first:
+      213: -4583037558652660365
+    second: mockup_208
+  - first:
+      213: 5939707866801168826
+    second: mockup_209
+  - first:
+      213: 1116725418584702297
+    second: mockup_210
+  - first:
+      213: -3594572558705345440
+    second: mockup_211
+  - first:
+      213: 1237647223440092467
+    second: mockup_212
+  - first:
+      213: -7025748462647707671
+    second: mockup_213
+  - first:
+      213: -2598518665259179669
+    second: mockup_214
+  - first:
+      213: -8179571840291037141
+    second: mockup_215
+  - first:
+      213: 4405204668407157591
+    second: mockup_216
+  - first:
+      213: 7046203357125757311
+    second: mockup_217
+  - first:
+      213: -6710864096885260769
+    second: mockup_218
+  - first:
+      213: -6124354993771912055
+    second: mockup_219
+  - first:
+      213: -596509769474729768
+    second: mockup_220
+  - first:
+      213: -1191674349530308637
+    second: mockup_221
+  - first:
+      213: -2599026761910458732
+    second: mockup_222
+  - first:
+      213: -8621914810196077580
+    second: mockup_223
+  - first:
+      213: -6032355304881388788
+    second: mockup_224
+  - first:
+      213: 6894926277849554073
+    second: mockup_225
+  - first:
+      213: -5908862148173486551
+    second: mockup_226
+  - first:
+      213: -455281423415954500
+    second: mockup_227
+  - first:
+      213: 5726665911319488117
+    second: mockup_228
+  - first:
+      213: 4112438226760680654
+    second: mockup_229
+  - first:
+      213: 7436351446072055033
+    second: mockup_230
+  - first:
+      213: -402127260808337541
+    second: mockup_231
+  - first:
+      213: -7057329434297270112
+    second: mockup_232
+  - first:
+      213: 2924383016263366304
+    second: mockup_233
+  - first:
+      213: 5400368254604466306
+    second: mockup_234
+  - first:
+      213: -6696409154955823553
+    second: mockup_235
+  - first:
+      213: 7410941195754173870
+    second: mockup_236
+  - first:
+      213: -5628026786938136691
+    second: mockup_237
+  - first:
+      213: -3862372945464972156
+    second: mockup_238
+  - first:
+      213: -5622565415237085634
+    second: mockup_239
+  - first:
+      213: -3418056417092099123
+    second: mockup_240
+  - first:
+      213: -7206781279704238885
+    second: mockup_241
+  - first:
+      213: 5163592035264281390
+    second: mockup_242
+  - first:
+      213: 1820359825508554812
+    second: mockup_243
+  - first:
+      213: 8085536436838535244
+    second: mockup_244
+  - first:
+      213: 2684761574026343458
+    second: mockup_245
+  - first:
+      213: -8860546772149807277
+    second: mockup_246
+  - first:
+      213: -6894705038031158833
+    second: mockup_247
+  - first:
+      213: 2832548900952279845
+    second: mockup_248
+  - first:
+      213: 7558830325113001800
+    second: mockup_249
+  - first:
+      213: 3472847508969097813
+    second: mockup_250
+  - first:
+      213: 7319984243327590964
+    second: mockup_251
+  - first:
+      213: -4048014936407764264
+    second: mockup_252
+  - first:
+      213: -868847323232803859
+    second: mockup_253
+  - first:
+      213: -7423881332597162712
+    second: mockup_254
+  - first:
+      213: -3897489112757485613
+    second: mockup_255
+  - first:
+      213: -1165301734306387296
+    second: mockup_256
+  - first:
+      213: -9151701788421140887
+    second: mockup_257
+  - first:
+      213: 2365419491029651873
+    second: mockup_258
+  - first:
+      213: 1576395901338590212
+    second: mockup_259
+  - first:
+      213: -8918323490523813283
+    second: mockup_260
+  - first:
+      213: -2715750886366256326
+    second: mockup_261
+  - first:
+      213: -6073630817390129681
+    second: mockup_262
+  - first:
+      213: -247635521771758266
+    second: mockup_263
+  - first:
+      213: 2651269278025904242
+    second: mockup_264
+  - first:
+      213: -9212589543422245375
+    second: mockup_265
+  - first:
+      213: 1305110354196229841
+    second: mockup_266
+  - first:
+      213: -5891065884168554181
+    second: mockup_267
+  - first:
+      213: 1490248093767108557
+    second: mockup_268
+  - first:
+      213: -2909629655547806478
+    second: mockup_269
+  - first:
+      213: -746376309736876335
+    second: mockup_270
+  - first:
+      213: -821610819287154838
+    second: mockup_271
+  - first:
+      213: 5307244716573571431
+    second: mockup_272
+  - first:
+      213: -3499804458182324348
+    second: mockup_273
+  - first:
+      213: -8641013253387611617
+    second: mockup_274
+  - first:
+      213: -2092072243989048497
+    second: mockup_275
+  - first:
+      213: 6374079443974269350
+    second: mockup_276
+  - first:
+      213: -4066760685584908639
+    second: mockup_277
+  - first:
+      213: -1639195035191835380
+    second: mockup_278
+  - first:
+      213: -1117012856277041035
+    second: mockup_279
+  - first:
+      213: 4380430948048586674
+    second: mockup_280
+  - first:
+      213: 8414394339837737554
+    second: mockup_281
+  - first:
+      213: 3374595753857710861
+    second: mockup_282
+  - first:
+      213: -3336548238374722586
+    second: mockup_283
+  - first:
+      213: -6880710104205437250
+    second: mockup_284
+  - first:
+      213: -5486885063689565531
+    second: mockup_285
+  - first:
+      213: 3319657428137419705
+    second: mockup_286
+  - first:
+      213: -3613560450317020738
+    second: mockup_287
+  - first:
+      213: -800476057566588
+    second: mockup_288
+  - first:
+      213: 7311325181244880830
+    second: mockup_289
+  - first:
+      213: -4249131733959306026
+    second: mockup_290
+  - first:
+      213: -1025052554819942836
+    second: mockup_291
+  - first:
+      213: -329502914925276384
+    second: mockup_292
+  - first:
+      213: -4343996394976180333
+    second: mockup_293
+  - first:
+      213: -8232430333804497277
+    second: mockup_294
+  - first:
+      213: 8744183692471248371
+    second: mockup_295
+  - first:
+      213: -4776026527782791179
+    second: mockup_296
+  - first:
+      213: 627061652862464164
+    second: mockup_297
+  - first:
+      213: -2538963721117810713
+    second: mockup_298
+  - first:
+      213: 8264333666706274462
+    second: mockup_299
+  - first:
+      213: -5009114177925733902
+    second: mockup_300
+  - first:
+      213: 4702449658460725528
+    second: mockup_301
+  - first:
+      213: -6621161695854842099
+    second: mockup_302
+  - first:
+      213: -8377356378620550766
+    second: mockup_303
+  - first:
+      213: -6980407458516239889
+    second: mockup_304
+  - first:
+      213: 3583350484175409654
+    second: mockup_305
+  - first:
+      213: -7470625859017899136
+    second: mockup_306
+  - first:
+      213: 8730545627866340239
+    second: mockup_307
+  - first:
+      213: -7115884269833534165
+    second: mockup_308
+  - first:
+      213: -7161693397805527896
+    second: mockup_309
+  - first:
+      213: 5502959756204786607
+    second: mockup_310
+  - first:
+      213: 1470132011758098953
+    second: mockup_311
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mockup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1151fa0a237d4988d044312a0495d
+      internalID: 2888427252096979072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8806bd381ba30e34d8981f1605755dda
+      internalID: 5865110138269528773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f655254530ab1b40bb6df737bcaafb3
+      internalID: 3327274352691754004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21eb0a40a39dd4daee63f5b273dcc5
+      internalID: 702993174913099476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a11e376d5d274eb8c911f6b6d1ed3
+      internalID: 5484203052623828037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da91eaf3bd7eb744b8bcba7d4737f71
+      internalID: 2979764389279299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304267dd60690ec4ca71d90e090923a4
+      internalID: 3838483058914842864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64226a134526ba748a04a275955d0967
+      internalID: -1088202418300401282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353577480c9769418da3d430144aac6
+      internalID: -2830251380701082588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e6dae4e4a3af48adda5c0007d60ef
+      internalID: 908911856991562527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d181a5c253f8c4b85d6b363134ef23
+      internalID: -5430141392932049234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4fc43146c70a84eb4e5e054ff02bd9
+      internalID: -6282994990157695922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d237470555f643b6027a617fd15b6
+      internalID: 5942839776865027404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac07f2642b809442b905ed24aef3f08
+      internalID: 6672841453653256615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da84b7225895f41a9e9c3505e7fc27
+      internalID: -785323907947507295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8faee580b202c0429ec1276005288e3
+      internalID: -1206044615620886931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdbe9bd0365b624da30067edc31f7ee
+      internalID: 8165662021298212768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd858c34f6825640888c473c37665ca
+      internalID: -6326332379483210795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521090774d092744293f7e033b1f1b18
+      internalID: 5072238462175497946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba70253b04b47f4784e426bbce1b8bd
+      internalID: 1543064681162821468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9e67abfb82a5418fc512660430dff
+      internalID: 6568180688555781646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f43af4d3794cb4d84f410530d191a1
+      internalID: 1832252667426439217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44cd5b92da7d424b81abe11eaad28be
+      internalID: -4028312046827759417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 798
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d36e2c32f8f9b4cb8cd77065ad3900
+      internalID: -5787900878930137259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89aa5a7a4def2438462c474b154c74
+      internalID: 2489455398172654348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e6291869f322542834de7dd1481479
+      internalID: -6182515049905002151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487d5c1a9660854fb89c0b2e07f21d1
+      internalID: 7588004832778410211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168ea49fba7e3742992f5b4edca3a8d
+      internalID: -2434214834764492167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ab354532dcb4428ce8a4f99a45093
+      internalID: 7466569535667620851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f929be5c360466439a75c0e38912049
+      internalID: -6244521891231776788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a76ff23a3745143a8084caa171db36
+      internalID: 6918173998803486295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328d7c85f2ed1d479977edeadaa86b6
+      internalID: -8970073240520322177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03ff007c452124cbeeb05035e9f249
+      internalID: 2441036390362928549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d5ecb8a31eb8478199c67141625b2
+      internalID: -2944482214547674307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3319f68b2ea74ba6784b330f1afb7
+      internalID: -1107825532960478311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b894c982728b49bc99de8303d1d66
+      internalID: 2819508444303046090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b20b89ad7b834088e526f4aabc4fe
+      internalID: -4891168255952484652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdaa775a4f80b94f92f70fb44924990
+      internalID: 4352844835962789297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a612ed788157643afbdad11e730e1f
+      internalID: 3874865182102479672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dfdd6bc78e6474db1204b93c2965d3
+      internalID: -5074692959066117774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7894ba6626e20543b376cf49bf0ceb8
+      internalID: 4160371734465784315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981e79527c03e84dafa7e3d05d7fb97
+      internalID: 5156515536792492639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_42
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ce40f8c01e2f41892d678ddc441a8
+      internalID: -2516417850181535701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_43
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e691ef124c3a499a3c6a60be1d711
+      internalID: -2719017244712613855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9174e7e22aa54e9ac503c99bff710
+      internalID: -3547529791352830144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_45
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff377cf277f5e541956b4db0dc98107
+      internalID: 6326712471333552711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_46
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d74911c2e7bb44935f55c035a7240
+      internalID: -1189618641493609934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_47
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea927509bd33a4694d654918b1949d
+      internalID: -8519457981052749514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c5294a331c7e347b5fe8ba1a54fdcd
+      internalID: -711616022388601512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952bf92ab36b39d44a2b2ae1b4b8a92f
+      internalID: 3747762902128518147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916913f650a01f429dce36b77ab04d7
+      internalID: 785401933641374844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edbe0499bc12e74097c6c55f8dfd998
+      internalID: -2626831427778308353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeaf99dba503c848bd8416816498b3d
+      internalID: -4665910680743964991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b71cfaee8a814ab72f7a53fd05c54
+      internalID: -4564821950288842957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b60e083c1b30448b4d54a778c2edc0
+      internalID: -6583414132333125179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c35b876aec01e47a7ac0f957621f52
+      internalID: -4949025414219735732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679eeb16a25834c42ac0978bbca5f4b5
+      internalID: -288712747206262561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42be527161adc45bf569c4bcc233f0
+      internalID: 2418693757852022783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9238bdc53733a49ac9ee814945d534
+      internalID: -456433632058911445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15872d2e2e2063847835383b1f44724e
+      internalID: 8915567694629117843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887abfedbeaf21642a83bb239e830878
+      internalID: 2152992549963039130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed81da339a61d43a16ccf97e3c142d
+      internalID: 4540174001437435998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c84258e392542409585454fcee857e
+      internalID: 1785371480852719828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146ad2a30d125043997212391f85f3c
+      internalID: -5242919413447088503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b333bf94208d34d853958ef861402f
+      internalID: -5038531334541908105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_65
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996588cc57f26448bab62d76f0c9efc
+      internalID: -6308254176580508101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f73e1bb9089146bebeeb80cdbda2e
+      internalID: -5161721671509774158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_67
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9184894cd1df094bb884959526255fa
+      internalID: -893353896329381915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e0abb8be68ff4f85ead50c5d6383e
+      internalID: -6876970212278356036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_69
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fbd7e926a71f741adb182754cd1e73
+      internalID: -1399506347153019448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_70
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98de51ee547b24eb91c17e939ef2f1
+      internalID: -2418188266564944007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_71
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 670
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229e32b05a85ea48960ef05929ea7e6
+      internalID: 99849986928130454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61681b234ef164a48988401c609eb92f
+      internalID: -3991289270912856073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b5b4d111793c4c937d50900e01153
+      internalID: -1601350479954744496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a764d941744c948a84bbb6b153d9cf
+      internalID: 129316611330803085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ff4aa7a80f684bbd9c3fff41b4aca
+      internalID: 1392377746701612987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9185c34ed0ce740b9a26142194d372
+      internalID: 9065286158772568761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2c7a9992779048bcd43d596e382ac
+      internalID: -292901822630432059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f28464d2b01f4eb8b35e30df1b06e
+      internalID: -2921118717128260719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e24fa8299fc1c41af4e413e4648c76
+      internalID: -7688078048042433255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01ba1d45d092b4294c9fb7ca080861
+      internalID: -2958997417633451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f6a8179c20af5409558cae42c0b50b
+      internalID: 7217931397292097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dabf48f9a6c90547a453e61732daadc
+      internalID: 5572742201537116100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d8cb57e576b144ae85c47b028e5c6
+      internalID: 2225770983370118876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6074a78e22685541b0a5a3ccbd8960e
+      internalID: -7327722663119401175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_85
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b088529b9b1e43b9944b9f9d42d30
+      internalID: -5424031563593736699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3386ec99b42d6e640a9b7ce15289e9b9
+      internalID: -4209067111702443710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_87
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645193286ba985e4f97a1a89216c93ad
+      internalID: -7806722002187495077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577b966e9566bb47ab81ec88edcc9a9
+      internalID: 156873319537127077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_89
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1986fd800bd5ab4f9e1f9c70dd10bba
+      internalID: -2330198677768897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_90
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc481c1462a4cc4f82f2c8aa75ef460
+      internalID: -6873286469684215984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_91
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6967ea6cd5590e04280dd335dbb93272
+      internalID: -549575477295642576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206f82affa354464abcb309738d9b55e
+      internalID: -4266921249064819847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be5c938042d284d9f9dba97e00ee63
+      internalID: 9005466146898210730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6976d8bd2bd2db842b08384948824f46
+      internalID: -1641606198465743773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_95
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fbc8afbf417ac43a8f063fa672ed42
+      internalID: -4808431991529921443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31d0d3ad9966b459c2abc8fbe5514b
+      internalID: 6977724281136595608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72557879b2a4a5b43a7715f1239db236
+      internalID: -460469914760382439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3552cb3908f4e4ba4427d0f53a249e
+      internalID: 4387451839154230209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049226946d0bb848bb4763b3385ca31
+      internalID: -7009993345026552612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b1af47e7fca2408791d3c5049a67f
+      internalID: 3101714657925569078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97723ed63962e374d8cc8fd7ec887185
+      internalID: 698282309224881506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1236308683f5a42a161459ec551cbc
+      internalID: 490971589380415991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf26572b56635943b4549ce13790f7d
+      internalID: 866492217279533046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffe0f68cafbb94cabe2d9bde088e80
+      internalID: -2622733593736886523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa17e5ab0e2714fafe1c4dd637b141
+      internalID: 8121138918263456493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edefa0e01a0f514fad607a39d99e24d
+      internalID: 2334951344796739254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58c3a4a39fa63e49862af3e42feafdf
+      internalID: -191554352849641268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d79a722daf5441b7c78bf8697c61c
+      internalID: 5481765489875786388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088f7ac3a63cc74aab81fe8c61927ed
+      internalID: 746268687050734901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9988a15a6f2349a3fa495a77e7628
+      internalID: 831743337207801033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d5957539277141b18281b953de32e
+      internalID: 4668921086195318663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234df0941e9b5484d9978b8a1d0c55b9
+      internalID: -7070868979594689886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_113
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96819635b1c61f84bab0add9e390202f
+      internalID: 4409199121360383415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a8aabe8765dd4699ab64c2515f088
+      internalID: -4196129749272577657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_115
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249e3b71f3f59444bac041835c26c38
+      internalID: -5661297525847140246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d99e4aa226ce2408e588672a36c579
+      internalID: 7901783505594885365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_117
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0959b2b1c409ae4e9708374f7af78c1
+      internalID: -4864047313193317526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_118
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31645820688a14141b95f4a9fa9670be
+      internalID: -7684403560744850437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_119
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 542
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0f15f8e7127342b3e39e57850b6d6
+      internalID: -1037090425356341674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c815c423ab58d4f877f09c928d9e85
+      internalID: 8608902988044682021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb07adffc30e84497fbfea2049e34e
+      internalID: 4172572112775844148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c770f3fd6dbeed49ad838d6e8db6a45
+      internalID: -815139732626889688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475c719a3edd9d4b9164a64f2a4baa4
+      internalID: -705084462841307815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5308719984fea040bbe979941d0bc78
+      internalID: 7282470078451702935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8897c8536742a4fb73b8f76004f4ad
+      internalID: 2707504038126728861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba18fbe56895b4b955aa105c5c6a2c
+      internalID: 6822979036290109394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5029357b540e444b6f5ad32fdcae80
+      internalID: 5063233858953514525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bca5fbf4864354fac1ea469e0c6017
+      internalID: -8608194918627709115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c2ad68718b96449298d1620b22327
+      internalID: -8937089597310639128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43c698793eddd04a91f1d09edbc40e9
+      internalID: -7015764784890581429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfcc14a157ed494494be420ded80ede
+      internalID: 4161508779632569623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d351079454206f4c993b285733aed8c
+      internalID: 7148228902852249859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38459d62bef044caed683214490b23
+      internalID: 7157809353679870706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb50ee77caf4f4388dae991e18cc3c
+      internalID: 6409867633148885046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d27e76e0ce37e47afa2f74cbbbbd6d
+      internalID: 4696984128796905624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535067b67345be34b8c0f1ad17dcb852
+      internalID: 3566894176514922612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_137
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff008783770a7d94b9af4bd4ad7ffc85
+      internalID: 5830770434550384021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_138
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c406afb297214c882c8c2b6b763d7
+      internalID: 5290002525248515303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_139
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd7791bfed7c34997540aa4386ccd2
+      internalID: 4877509376987943841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a579190e645c47af0d933ab9b39a5
+      internalID: 7095388307912965104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_141
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bb0853b10298141bd3c8e2b7b3fc42
+      internalID: 2450555418626161331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_142
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcccedbbcf731ce4ea8c30fbbbbd860d
+      internalID: 6602440373348568747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_143
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 478
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773c2738df8c454089c0ccf308623bf
+      internalID: 6165229895741237024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f0f11758a6be45936c42ca613a29a
+      internalID: -7558805606360954168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0224124f8c689f34cbed7e938079652e
+      internalID: -3652028052115310341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31de85a9249ab44859eecd289fcedf
+      internalID: -6501445234972394995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6072ba9834782e4abe6b7f7b38a0c8e
+      internalID: -1614920134280253788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6938220d4af4d44a902bd51d9aab34e
+      internalID: -6253868492848425265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a129cda9942243838b5c32186812e
+      internalID: -1849012808604529884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41928b1de6bb63a4d8df08697dcf03b2
+      internalID: -1274213641171022834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1200e9f5327b334cb38fa020960d29d
+      internalID: 7591705969252228586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4b31a1153d4404f853f8e0f1f00fc6
+      internalID: -7592245101195903650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ac2fae04651e4d9b1ba94aef04600
+      internalID: 5153357131345052131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3288e285ae39f4c93e2f30957b0965
+      internalID: -7871293019849362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa024b311752d43ae0fabb82f63262
+      internalID: 4394485293130509701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0f9265e885f14881b902fa169472f
+      internalID: 3454053624710821559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff7a9d47887b342bc1133ff38ef6f4
+      internalID: 4509393019875305440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78cf12b058c72b439dee4af3b9a6155
+      internalID: -7469965845726832367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10315410fd30da34dbba60f93038de4e
+      internalID: -6287521049620667729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_160
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf67e1358bb8a41b62803335e856fc
+      internalID: -3285503073998200294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_161
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72089429b2a3a6a45b4f5ac0a097726e
+      internalID: -1392679292194257755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_162
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a930fe10c0e5ea4daf7b092d8b89652
+      internalID: -3217944382588030428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_163
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0297e220b00f99948bed772ec98cc855
+      internalID: -8687025561360267185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_164
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17552f65d7ece2e4c9b9cd6ba8e7bbd6
+      internalID: -3718250857173795559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_165
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754354e844b0732499c74c7c966ff86c
+      internalID: -3959137990600899830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_166
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb854fffe01694ba48e2be617b6f03
+      internalID: 2169128987045697410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_167
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 414
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fee1467b7394044bc7390600601b25
+      internalID: 6630246121005782538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe05f736e83f943b32d2b65033d675
+      internalID: 4594519481152338976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077de41983ac9a41a74a14f07133a5f
+      internalID: 5680300340728685471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fa54891d15364087901911f917e8f
+      internalID: 7488537710511733987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8255926f6c3fcd4f993d76ca1bb97d3
+      internalID: -3311386532176036934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e29f54eb5584c44bafb4d50de8700b
+      internalID: 2076621644958130008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4231af6fccf6743bbf56ad9d186f86
+      internalID: -7594713463430399261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062167edf7d48fd4e9274a468c318279
+      internalID: 5423048391825676462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276805f1bdd2124180588617c020d56
+      internalID: 3157184922410962191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_176
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c567b692232d458b4d108dc6d64a5
+      internalID: 4252244102839180056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_177
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592929c0d53edc419314432ea515485
+      internalID: -9128481948507703089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_178
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0783b488ea282f469fc2d417d3b96fb
+      internalID: 1655371347524686208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_179
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73e08817949bf49aefa97ceebf334a
+      internalID: 7449403902044381629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_180
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998ba56bca98a948bbb9352b4ac212a
+      internalID: -5722676482858881629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_181
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccac8e4c3ba0e44e978a5c8fdd8832e
+      internalID: -622441801973691893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_182
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421290ddf7e128540bef2908918ed5f8
+      internalID: 2994436208809720477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_183
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f245e8c325ec940803b698c15a3acc
+      internalID: 6462715569637734418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b77abebae7a5740bf438bd0fe577db
+      internalID: 4930471021144826409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_185
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915010de9b242ea4cb99367634e34193
+      internalID: -5785904913237294048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_186
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb72084d248f2a4d8792e3151982d08
+      internalID: 4082051602048389044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_187
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a238a0f99e147445952aef21efedfdd
+      internalID: 1901090454985106863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_188
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d531c717aaea284db0b91b40f48f4e1
+      internalID: -8673428285570006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_189
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee92ab462a5de4c86e57d06de3d89d
+      internalID: 8579766812086547330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_190
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1bbc92c69750448c8c8a11c193363
+      internalID: -3051177838092704700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_191
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 350
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113fd50a6c125a34f985a57339d1f6a9
+      internalID: 4722602542489151603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb93aeacea8844facf943a6883a70b
+      internalID: -6468398821380097700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf6e9e658a3b8469b1f4071ae568ae
+      internalID: -4475929470977707582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561cd5fa41284d342aae6ccbbcef1dfd
+      internalID: -4292336374658065891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c329cc0abd4a459fcf75de210fdaf
+      internalID: -2197979300139764154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d2b94943e6dca4dab5e47b2f7ff757
+      internalID: 3262087353030084708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070584adcf6164747bf15959891add55
+      internalID: 4667803461951958007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f7a87b34f6c643ae93784456e0bac
+      internalID: 1112058893777915923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635a0623e0d4864c927dc84b8cb9c00
+      internalID: -2828597736918028549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff0a0e683b939741b6f84ec62ef7525
+      internalID: 3380293736030574863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c6a9b7e91e2a4c867d6bf6c9327df
+      internalID: 4448742868910861731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557b9d948aa28644ac4782fcea243e6
+      internalID: 4748349553294104487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bfbe0464c15e24890c435d5235af47
+      internalID: 7365026658497766757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99566087eadc3cc4ba519b67b0003a0e
+      internalID: 4685910847369191065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0440e20c29bce43aa3fbbeb452649b
+      internalID: -3381174516081991393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dbc51fbd3aadb4f870ac1440932bd8
+      internalID: -3065801675937985124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eda29bbc405474d9ec9f107e2a8586
+      internalID: 6103427902721947172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_208
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d7f60a3e91e247a1bd336f180dc06
+      internalID: -4583037558652660365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_209
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10863d36597848445ac9632fe6de7ee6
+      internalID: 5939707866801168826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_210
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09e23481456594da9a3eb04525850b
+      internalID: 1116725418584702297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_211
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb700d04edde6b42bd64f90b20b08c6
+      internalID: -3594572558705345440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_212
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fbfbec77876c49bb49438edd526f3
+      internalID: 1237647223440092467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_213
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e01942cd222e458ca9e3fbef5338d
+      internalID: -7025748462647707671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_214
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b206aaf0ce9186439fcfaab23934ee7
+      internalID: -2598518665259179669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_215
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 286
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b94858cf64bd6446b19eaa031ce1834
+      internalID: -8179571840291037141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f5888438c1db41aefe2b1992bb1bb
+      internalID: 4405204668407157591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf9633fb5c796849967ff978187d48c
+      internalID: 7046203357125757311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417343b2b679b44c9f6beaa2297d919
+      internalID: -6710864096885260769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_219
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bd989df8d4ee429dc6a2dac4d4565
+      internalID: -6124354993771912055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6909caf12b8434d8a9344129e9609c
+      internalID: -596509769474729768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_221
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13370fc762053b49be1856108c202f6
+      internalID: -1191674349530308637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2038ba2fbcb8ba74fa17e86b50dfe082
+      internalID: -2599026761910458732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_223
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325193a4134a76d4eb1d98916e4c41d1
+      internalID: -8621914810196077580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d15285211dbb64c90899c00fb705db
+      internalID: -6032355304881388788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_225
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa0b5ad703ce64b8bb2fff38fa3b89
+      internalID: 6894926277849554073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_226
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c061560e187c743a5f6b1e50bdf679
+      internalID: -5908862148173486551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_227
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad050d36ab42844b5b9aa7b47cb8e3
+      internalID: -455281423415954500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979832d284f049c41af07a8ef66c9502
+      internalID: 5726665911319488117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_229
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b080bb1cb3b4240b8e8ea674ff495d
+      internalID: 4112438226760680654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_230
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d14e359e4d94f48b46a6fd4a0495b2
+      internalID: 7436351446072055033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_231
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a85d9b2ec7a445a1ef50f98193d8f
+      internalID: -402127260808337541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_232
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f50b77b0fead046a435363ea07dc57
+      internalID: -7057329434297270112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_233
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204936eada016248918e4d7a92d5059
+      internalID: 2924383016263366304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_234
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be28db5783487a4da3b92689f5f28c1
+      internalID: 5400368254604466306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_235
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dcfd212a39c2343bde13743272eb46
+      internalID: -6696409154955823553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_236
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ee294a2042494db81c1db20e5d9db
+      internalID: 7410941195754173870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_237
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8872192da07894cbc7e34593636e0a
+      internalID: -5628026786938136691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_238
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e92470284ab2f4795398fc6a9a4e50
+      internalID: -3862372945464972156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_239
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 222
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955522ac8c65b0c4e92cceb42a7f51e0
+      internalID: -5622565415237085634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80872bb591c4849a9532126ecad126
+      internalID: -3418056417092099123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5145929c1edc4db38be7a0d9ad98a
+      internalID: -7206781279704238885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5afd4bc57d764ca8fb7fcf48515a9
+      internalID: 5163592035264281390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57dc5e606361d4f9147b33970cbff9
+      internalID: 1820359825508554812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c72508706779439a7a0f0a9170258
+      internalID: 8085536436838535244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6955aed27877746841e2aba2df8e0e
+      internalID: 2684761574026343458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a360261dedc3548ac1f92f4bb81856
+      internalID: -8860546772149807277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e1b93c4200a642a723b12bae52339
+      internalID: -6894705038031158833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330d0b56b5e71a42a7d465d3c94ed64
+      internalID: 2832548900952279845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ae798bb0125694ba3819b9c689d8c6
+      internalID: 7558830325113001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53dc783c9b34d24c930c326bdf0e93b
+      internalID: 3472847508969097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70928cd5e39c354ab9a2e13c3a556ab
+      internalID: 7319984243327590964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100f0962a4172247b23f1e28b6852c5
+      internalID: -4048014936407764264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41fb53fb1d8dff41adf33e645adbe24
+      internalID: -868847323232803859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff740d22e6062244ac63638504ff42b
+      internalID: -7423881332597162712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521ffb933bbc7d41ab245e991715a96
+      internalID: -3897489112757485613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_256
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5839b09faa47e4d962760f4590293c
+      internalID: -1165301734306387296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_257
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24e2cea1981014a8624785c4b3a72b
+      internalID: -9151701788421140887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_258
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05c41354842324a9cea9ce79c7d744
+      internalID: 2365419491029651873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_259
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10480665227d7704693e187e0ed21da2
+      internalID: 1576395901338590212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_260
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96314091fb22184bbdb6917357a68b4
+      internalID: -8918323490523813283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_261
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365aed9e8beb69479bb401e95cafebf
+      internalID: -2715750886366256326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_262
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e38ec197595f47a9b46c339b00270
+      internalID: -6073630817390129681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_263
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 158
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47706db26a44114fabefc5c5d622b64
+      internalID: -247635521771758266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65968f41a9e6641baa37072f1ba621
+      internalID: 2651269278025904242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_265
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437be12986ca6f4eaee3876184af4cb
+      internalID: -9212589543422245375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_266
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc36e3bbe19d9a4882261a90e04ebeb
+      internalID: 1305110354196229841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_267
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8f81e1650ba241b48a1fc776d3afd
+      internalID: -5891065884168554181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_268
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d93ba7880e1443b4aa25fd75e3a9a
+      internalID: 1490248093767108557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_269
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ec6758f777ad49af8a6750348f1aa
+      internalID: -2909629655547806478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_270
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ec5bbbb474e040a65d25c944ded7c
+      internalID: -746376309736876335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_271
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4438345cab28134e96bdb8fa8b95318
+      internalID: -821610819287154838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_272
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f430395b28594aaec28f808eda11a
+      internalID: 5307244716573571431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_273
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b1214d6dc1464cbfa1df72b6f5948
+      internalID: -3499804458182324348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_274
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d09990ce0af594895a4733983b01cc
+      internalID: -8641013253387611617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_275
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92b034534605546a99849ccc156677
+      internalID: -2092072243989048497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_276
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141893a58d62314458deddc8f814ab0f
+      internalID: 6374079443974269350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_277
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6b6ddb7424644bb7dc267e1c5f61e
+      internalID: -4066760685584908639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_278
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cf50b574a66d4a8345b1bcef1f98d
+      internalID: -1639195035191835380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_279
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a9fef27bd202547be1e18845065d23
+      internalID: -1117012856277041035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_280
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de3b31b3ed4c2489a6c3d4464fd355
+      internalID: 4380430948048586674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_281
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38a89fa1302d64b979ac46c217c5f1
+      internalID: 8414394339837737554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_282
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b4d90a22dbf04da52041c20990c22
+      internalID: 3374595753857710861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_283
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8c6356107c7947bc22b370a46e2e7
+      internalID: -3336548238374722586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_284
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8558f5d70c9074389aa0a1c00ac3f9
+      internalID: -6880710104205437250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_285
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce1ea72e803b094b95ca54213b923ff
+      internalID: -5486885063689565531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_286
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7140560d40859c42b40342151cfbb16
+      internalID: 3319657428137419705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_287
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 94
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1951fbeb24ca1449e4006f598f635c
+      internalID: -3613560450317020738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405766c701991c44083893c51d4db7ae
+      internalID: -800476057566588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_289
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b4ae1d25731747a1dab1239fd3f7f
+      internalID: 7311325181244880830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_290
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06cd095dd3dda46925401e00700586
+      internalID: -4249131733959306026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_291
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fae14029387e34fb9f6bd0e5a3b2df
+      internalID: -1025052554819942836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_292
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80da3343f3ab2bc47b57689399e00598
+      internalID: -329502914925276384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_293
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac66a8863891a6458e8a02a15482db9
+      internalID: -4343996394976180333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_294
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeba99ade576674ab5ba7712e7151e2
+      internalID: -8232430333804497277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_295
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee702b70922d5439b6bfbbef30b4f0
+      internalID: 8744183692471248371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_296
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568c4fb442db0c4d8b75c9afe7d925e
+      internalID: -4776026527782791179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_297
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db93ee3cba4b9eb4caeb6a0df6120bff
+      internalID: 627061652862464164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_298
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3e89c55b74f64c9c0625613726a07
+      internalID: -2538963721117810713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_299
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6df4a4741bfb4bb7a2f8e846ec8d2
+      internalID: 8264333666706274462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_300
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8df286b0c8094fb24c42ee2b4b0e4
+      internalID: -5009114177925733902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_301
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aeb4dcc670f764eba37eeee0a834a3
+      internalID: 4702449658460725528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_302
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d2f4d89c086748862d4ed32e0929c
+      internalID: -6621161695854842099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_303
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc38bb5b1b05e4bb2907a3e4f5b02b
+      internalID: -8377356378620550766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_304
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e1e3623b357c468c52d8f934790b4
+      internalID: -6980407458516239889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_305
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d114b4dc5a91ad940b0dda7c801aa59f
+      internalID: 3583350484175409654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_306
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af614d063d2e1ec40ba8eff1bd1a9987
+      internalID: -7470625859017899136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_307
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29ace5eddde7bc4880643f31bec3454
+      internalID: 8730545627866340239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_308
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5364b7d3cca5b478d2362c43e6f35a
+      internalID: -7115884269833534165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_309
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55271581ff08a438a3a72011f338e4
+      internalID: -7161693397805527896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_310
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566423af81ea3c4ba83077187425bda
+      internalID: 5502959756204786607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mockup_311
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58b24e0591cb34b8c1d9e030550206
+      internalID: 1470132011758098953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
