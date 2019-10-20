@@ -9,7 +9,6 @@ public class Movimiento : MonoBehaviour
     public Animator animator;
     public SpriteRenderer sprite;
     private float movHorizontal = 0f; //parametro para hacer transicion entre la animacion iddle y caminar
-    private float movVertical = 0f;
     private float runSpeed = 2f;
 
 
