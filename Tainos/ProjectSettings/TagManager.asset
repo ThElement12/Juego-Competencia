@@ -3,7 +3,37 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Puerta
+  - Platform
+  - Techo
+  - Escalera
+  - Pared
+  - Enemigo
+  - Flecha
+  - EnemigoNormalCuchillo
+  - Cuerda
+  - TextoMensaje
+  - RSPikes
+  - FSpikes
+  - EnemigoRango
+  - Roca
+  - attackTrigger
+  - EnemigoMachete
+  - Pocion
+  - CheckPoint
+  - Boss1
+  - Carta
+  - Pesado
+  - BOSS2
+  - desbloqueoArco
+  - Lanza
+  - trees_2
+  - trees_1
+  - grass
+  - Cofre
+  - bolaCanon
+  - bloqueRoto
   layers:
   - Default
   - TransparentFX
@@ -13,8 +43,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Enemy
+  - Jugador
   - 
   - 
   - 

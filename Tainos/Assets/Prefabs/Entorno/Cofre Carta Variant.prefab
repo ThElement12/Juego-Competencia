@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3496085936432891539
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5011644391363567371, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_Name
+      value: Cofre Carta Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 152.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 34.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567375, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: ObjetoContenido
+      value: 
+      objectReference: {fileID: 4349389116894448610, guid: 1790cd11bf2c72f4a88802899a821f4a,
+        type: 3}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: Carta
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.data[0]
+      value: "Crist\xF3bal Col\xF3n, fue un navegante, cart\xF3grafo, almirante, virrey
+        y gobernador general de las Indias Occidentales al servicio de la Corona de
+        Castilla."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.data[1]
+      value: "Es famoso por haber realizado el descubrimiento de Am\xE9rica, el 12
+        de octubre de 1492, al llegar a la isla de Guanahani, actualmente en las Bahamas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.data[2]
+      value: "Efectu\xF3 cuatro viajes a las Indias y aunque posiblemente no fue el
+        primer explorador europeo de Am\xE9rica, se le considera el descubridor de
+        un nuevo continente \u2014por eso llamado el Nuevo Mundo\u2014 para Europa,
+        al ser el primero que traz\xF3 una ruta de ida y vuelta a trav\xE9s del oc\xE9ano
+        Atl\xE1ntico y dio a conocer la noticia."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: TextoCarta.Array.data[4]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011644391363567374, guid: 1386d11012070d6479af5e4f956e338a,
+        type: 3}
+      propertyPath: mySound
+      value: 
+      objectReference: {fileID: 5667727141299599282}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1386d11012070d6479af5e4f956e338a, type: 3}
+--- !u!82 &5667727141299599282 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 9089205696063533345, guid: 1386d11012070d6479af5e4f956e338a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3496085936432891539}
+  m_PrefabAsset: {fileID: 0}

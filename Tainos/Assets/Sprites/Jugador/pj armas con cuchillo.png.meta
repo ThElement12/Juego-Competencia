@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: a23fdbbf30c3d4240a4743083419d4db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3821355561941704800
+    second: pj armas con cuchillo_0
+  - first:
+      213: -688954644913139318
+    second: pj armas con cuchillo_1
+  - first:
+      213: 8119866782141830929
+    second: pj armas con cuchillo_2
+  - first:
+      213: -239326891824394511
+    second: pj armas con cuchillo_3
+  - first:
+      213: 8951373501555408939
+    second: pj armas con cuchillo_4
+  - first:
+      213: 7918321938417025470
+    second: pj armas con cuchillo_5
+  - first:
+      213: 1689150527917652938
+    second: pj armas con cuchillo_6
+  - first:
+      213: 226088731569384175
+    second: pj armas con cuchillo_7
+  - first:
+      213: 3899050196746984039
+    second: pj armas con cuchillo_8
+  - first:
+      213: -2880116058034967888
+    second: pj armas con cuchillo_9
+  - first:
+      213: -5575321740185122823
+    second: pj armas con cuchillo_10
+  - first:
+      213: -3849497620373374253
+    second: pj armas con cuchillo_11
+  - first:
+      213: -2551236388784883521
+    second: pj armas con cuchillo_12
+  - first:
+      213: 4099317801998058347
+    second: pj armas con cuchillo_13
+  - first:
+      213: -6214287259401435235
+    second: pj armas con cuchillo_14
+  - first:
+      213: -4978851781410824456
+    second: pj armas con cuchillo_15
+  - first:
+      213: -7694779009734829686
+    second: pj armas con cuchillo_16
+  - first:
+      213: -260999537967673448
+    second: pj armas con cuchillo_17
+  - first:
+      213: -2801631239767190648
+    second: pj armas con cuchillo_18
+  - first:
+      213: 1028814033364819748
+    second: pj armas con cuchillo_19
+  - first:
+      213: 2573660116308168369
+    second: pj armas con cuchillo_20
+  - first:
+      213: -5731359361791255629
+    second: pj armas con cuchillo_21
+  - first:
+      213: 7678065412364262983
+    second: pj armas con cuchillo_22
+  - first:
+      213: 4077782038022470758
+    second: pj armas con cuchillo_23
+  - first:
+      213: 2306337849622158808
+    second: pj armas con cuchillo_24
+  - first:
+      213: -5079140311094047264
+    second: pj armas con cuchillo_25
+  - first:
+      213: 1010904613392849130
+    second: pj armas con cuchillo_26
+  - first:
+      213: -4344601809118410187
+    second: pj armas con cuchillo_27
+  - first:
+      213: -8346677695304448798
+    second: pj armas con cuchillo_28
+  - first:
+      213: -110585662510929325
+    second: pj armas con cuchillo_29
+  - first:
+      213: 3205590996497944918
+    second: pj armas con cuchillo_30
+  - first:
+      213: -7025667749262694446
+    second: pj armas con cuchillo_31
+  - first:
+      213: -285414459756825742
+    second: pj armas con cuchillo_32
+  - first:
+      213: 1893147943376460905
+    second: pj armas con cuchillo_33
+  - first:
+      213: 4386618763448581249
+    second: pj armas con cuchillo_34
+  - first:
+      213: 4806073590288128621
+    second: pj armas con cuchillo_35
+  - first:
+      213: -3834921718108881193
+    second: pj armas con cuchillo_36
+  - first:
+      213: 8825403308456832157
+    second: pj armas con cuchillo_37
+  - first:
+      213: 305521169325976005
+    second: pj armas con cuchillo_38
+  - first:
+      213: -6738225092250240344
+    second: pj armas con cuchillo_39
+  - first:
+      213: -8316338404358212674
+    second: pj armas con cuchillo_40
+  - first:
+      213: -6655862901272993649
+    second: pj armas con cuchillo_41
+  - first:
+      213: 1119810929029309200
+    second: pj armas con cuchillo_42
+  - first:
+      213: 3274731368209718713
+    second: pj armas con cuchillo_43
+  - first:
+      213: 1455977658297187323
+    second: pj armas con cuchillo_44
+  - first:
+      213: 4283655756596966453
+    second: pj armas con cuchillo_45
+  - first:
+      213: -6472890882412811926
+    second: pj armas con cuchillo_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pj armas con cuchillo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1324372a6d426439564fc36084dcc8
+      internalID: 3821355561941704800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dbde8aa53a6444fa9d937153c8e629
+      internalID: -688954644913139318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a59116fe3bc844e888f410dc54c8ff
+      internalID: 8119866782141830929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ce965113b8b840b18f380f876c931
+      internalID: -239326891824394511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16dcaa638ecc3498b404d41213a1ec
+      internalID: 8951373501555408939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47936357a552c8144b754d615ea0cdb6
+      internalID: 7918321938417025470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 386
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2e8d896a94f043ace887c96a6877b
+      internalID: 1689150527917652938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd45d6604c1e0c49b5f7dc1f985f0f6
+      internalID: 226088731569384175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 321
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9591f0c2e8cf46946583cac6b3598
+      internalID: 3899050196746984039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 321
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cef02151dbf9b499ad676ad03d587d
+      internalID: -2880116058034967888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376eed41469f14e4aa2bb9463ccbcecd
+      internalID: -5575321740185122823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 322
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11941e778f9250f498d43eb72e970e3f
+      internalID: -3849497620373374253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 323
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc93cfeb50a1ad40ada017181864c19
+      internalID: -2551236388784883521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 323
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219237b085aca54eba3611413ec1740
+      internalID: 4099317801998058347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 258
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0639429cbdd8c5641ba787679b3939be
+      internalID: -6214287259401435235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 258
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6a0143bc727740ae5bf834b1b7cf1
+      internalID: -4978851781410824456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d01505f6d79f4584677347f752504
+      internalID: -7694779009734829686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b9ba78b8c3f4642b4d85ddb6a403d8
+      internalID: -260999537967673448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 258
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d513b0de9ad144adb09b2e3c4cb4c
+      internalID: -2801631239767190648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 258
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7ead42ca150448a1e95e85017624d
+      internalID: 1028814033364819748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 258
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5407ea8c1b09b47b3bb18f136e7a9f
+      internalID: 2573660116308168369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c6621decfa5224abad430ada612d03
+      internalID: -5731359361791255629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 194
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed90d9bd35aef041ad3bbf420201087
+      internalID: 7678065412364262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2f735694086b4c9e1e81e581868f3
+      internalID: 4077782038022470758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 194
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ff7adc32091448ace84fd98041d1e
+      internalID: 2306337849622158808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 194
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656b5c923abf2e45894bb9f64c4480f
+      internalID: -5079140311094047264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30b5a6d1bdcaa4ebdc067fc2c70836
+      internalID: 1010904613392849130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa8f7a53ecf25439f1536d5b315e7a
+      internalID: -4344601809118410187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ef71e4d87ec0479469f681540402a
+      internalID: -8346677695304448798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333a7b42323ab04e869ec9a2afde486
+      internalID: -110585662510929325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8695ecb41f403f44b206421be12fd92
+      internalID: 3205590996497944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba60b422cf92be46b62b92b9311378e
+      internalID: -7025667749262694446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 130
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2e4dceb328324fb9442893f63aab9
+      internalID: -285414459756825742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 130
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a8777e84e6cf4a8b887f13316832d
+      internalID: 1893147943376460905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6fb4438a73d9647986289ca76acb36
+      internalID: 4386618763448581249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc2507f36e28f439c79c941579bc20
+      internalID: 4806073590288128621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 66
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885e3c6ebd5c954f9bbef6ff7fb1b14
+      internalID: -3834921718108881193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4100bcd84e8148a3aceccf98549f1
+      internalID: 8825403308456832157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 67
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979bd4a9029cd074381db4fad14c1e55
+      internalID: 305521169325976005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157924adc3a4d244eb548980326b39e9
+      internalID: -6738225092250240344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 66
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a3675e191f7d4faf7c180a5723732
+      internalID: -8316338404358212674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 67
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8891dadd2dd674583c516eba1a5d87
+      internalID: -6655862901272993649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da3213bf739f946a780b2f31d73069
+      internalID: 1119810929029309200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d6016bf012674e8031951cb8b238e
+      internalID: 3274731368209718713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b60f234fa3a3f4a9d5081fda3e1cd4
+      internalID: 1455977658297187323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23926cbbc08948540af975f8dacf9a9a
+      internalID: 4283655756596966453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pj armas con cuchillo_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5328dd63b6ce1cb458b7dbf9fba52711
+      internalID: -6472890882412811926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

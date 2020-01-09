@@ -1,0 +1,3403 @@
+fileFormatVersion: 2
+guid: 9a49f189d6acbeb48bc8e4dd32fd817c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8154580010414714901
+    second: ForgottenDungeon_0
+  - first:
+      213: -3411284155629496090
+    second: ForgottenDungeon_1
+  - first:
+      213: 4240327381334367298
+    second: ForgottenDungeon_2
+  - first:
+      213: -1071002951800352649
+    second: ForgottenDungeon_6
+  - first:
+      213: -6747666457811191301
+    second: ForgottenDungeon_7
+  - first:
+      213: 4956886665827326388
+    second: ForgottenDungeon_8
+  - first:
+      213: -203623352368874595
+    second: ForgottenDungeon_10
+  - first:
+      213: 6166620056678506438
+    second: ForgottenDungeon_11
+  - first:
+      213: -173560063300994443
+    second: ForgottenDungeon_12
+  - first:
+      213: -2137846710841875432
+    second: ForgottenDungeon_15
+  - first:
+      213: -4428158677836333061
+    second: ForgottenDungeon_16
+  - first:
+      213: -7937114788468578155
+    second: ForgottenDungeon_18
+  - first:
+      213: -7717439583087562044
+    second: ForgottenDungeon_19
+  - first:
+      213: 1638594928402970466
+    second: ForgottenDungeon_20
+  - first:
+      213: -198239000513008297
+    second: ForgottenDungeon_21
+  - first:
+      213: 2490227448639641622
+    second: ForgottenDungeon_22
+  - first:
+      213: -4808627306116980688
+    second: ForgottenDungeon_25
+  - first:
+      213: 69770905396670572
+    second: ForgottenDungeon_29
+  - first:
+      213: -6854351795699888988
+    second: ForgottenDungeon_40
+  - first:
+      213: 2050549614465107469
+    second: ForgottenDungeon_41
+  - first:
+      213: 6044242637681993438
+    second: ForgottenDungeon_42
+  - first:
+      213: -5288171915677962710
+    second: ForgottenDungeon_44
+  - first:
+      213: -5284200335924123288
+    second: ForgottenDungeon_45
+  - first:
+      213: -4548569692318027499
+    second: ForgottenDungeon_46
+  - first:
+      213: -3313668031387929615
+    second: ForgottenDungeon_47
+  - first:
+      213: 1865117174825622450
+    second: ForgottenDungeon_48
+  - first:
+      213: -2638525205308947480
+    second: ForgottenDungeon_49
+  - first:
+      213: 3724027349515882965
+    second: ForgottenDungeon_55
+  - first:
+      213: 6129175927485261558
+    second: ForgottenDungeon_56
+  - first:
+      213: -3053621425238736987
+    second: ForgottenDungeon_58
+  - first:
+      213: 7433514446375184545
+    second: ForgottenDungeon_59
+  - first:
+      213: 8316086377375325865
+    second: ForgottenDungeon_60
+  - first:
+      213: -1426390615364894635
+    second: ForgottenDungeon_61
+  - first:
+      213: -6416143303890260204
+    second: ForgottenDungeon_62
+  - first:
+      213: -4149854710858687475
+    second: ForgottenDungeon_63
+  - first:
+      213: 2202724917020963950
+    second: ForgottenDungeon_65
+  - first:
+      213: -6864157743154548899
+    second: ForgottenDungeon_66
+  - first:
+      213: -9031108083502670221
+    second: ForgottenDungeon_68
+  - first:
+      213: -7850922207165024619
+    second: ForgottenDungeon_69
+  - first:
+      213: 5579557300296503043
+    second: ForgottenDungeon_70
+  - first:
+      213: -3600686391354632881
+    second: ForgottenDungeon_73
+  - first:
+      213: -123410592409642478
+    second: ForgottenDungeon_75
+  - first:
+      213: -3774786252445920241
+    second: ForgottenDungeon_76
+  - first:
+      213: 3703354700588936358
+    second: ForgottenDungeon_78
+  - first:
+      213: -9180950147417822297
+    second: ForgottenDungeon_79
+  - first:
+      213: -418240376692359450
+    second: ForgottenDungeon_80
+  - first:
+      213: -7018734929064142862
+    second: ForgottenDungeon_83
+  - first:
+      213: -6380776229076109286
+    second: ForgottenDungeon_90
+  - first:
+      213: 351778000870424761
+    second: ForgottenDungeon_91
+  - first:
+      213: -540519028410064243
+    second: ForgottenDungeon_92
+  - first:
+      213: -2749178832795448165
+    second: ForgottenDungeon_93
+  - first:
+      213: -7440449033348997407
+    second: ForgottenDungeon_3
+  - first:
+      213: 7477512684838953071
+    second: ForgottenDungeon_4
+  - first:
+      213: 422536767081508554
+    second: ForgottenDungeon_5
+  - first:
+      213: 4938425995242795944
+    second: ForgottenDungeon_9
+  - first:
+      213: -4315335758424523211
+    second: ForgottenDungeon_13
+  - first:
+      213: -5665658895121991844
+    second: ForgottenDungeon_14
+  - first:
+      213: 1650867466512537486
+    second: ForgottenDungeon_17
+  - first:
+      213: -7246127768695043099
+    second: ForgottenDungeon_23
+  - first:
+      213: -4159147396059417449
+    second: ForgottenDungeon_24
+  - first:
+      213: -842570003203907856
+    second: ForgottenDungeon_26
+  - first:
+      213: 1166495770608599831
+    second: ForgottenDungeon_27
+  - first:
+      213: -8422391942332891653
+    second: ForgottenDungeon_28
+  - first:
+      213: 6745564148527133664
+    second: ForgottenDungeon_30
+  - first:
+      213: -1252514438879175457
+    second: ForgottenDungeon_31
+  - first:
+      213: 754740558255616415
+    second: ForgottenDungeon_32
+  - first:
+      213: 2246922014100272130
+    second: ForgottenDungeon_33
+  - first:
+      213: 4499087800165328145
+    second: ForgottenDungeon_34
+  - first:
+      213: -8593329924589903245
+    second: ForgottenDungeon_35
+  - first:
+      213: 293663723189969412
+    second: ForgottenDungeon_36
+  - first:
+      213: -2672317391361802621
+    second: ForgottenDungeon_37
+  - first:
+      213: -8604794338058872394
+    second: ForgottenDungeon_38
+  - first:
+      213: 6022887058712577558
+    second: ForgottenDungeon_39
+  - first:
+      213: -7582850931473906407
+    second: ForgottenDungeon_43
+  - first:
+      213: -6399135107957296535
+    second: ForgottenDungeon_50
+  - first:
+      213: 9040333126679387438
+    second: ForgottenDungeon_51
+  - first:
+      213: -3761877113497824564
+    second: ForgottenDungeon_52
+  - first:
+      213: 6094661640860054472
+    second: ForgottenDungeon_53
+  - first:
+      213: 3475751569743879536
+    second: ForgottenDungeon_54
+  - first:
+      213: 7487922768221419613
+    second: ForgottenDungeon_57
+  - first:
+      213: -677238982836304042
+    second: ForgottenDungeon_64
+  - first:
+      213: 3756810377354162013
+    second: ForgottenDungeon_67
+  - first:
+      213: 3120281880571831927
+    second: ForgottenDungeon_71
+  - first:
+      213: 3522241419860222129
+    second: ForgottenDungeon_72
+  - first:
+      213: 8197102245605013655
+    second: ForgottenDungeon_74
+  - first:
+      213: -2544665554040997748
+    second: ForgottenDungeon_77
+  - first:
+      213: -4561033568726883250
+    second: ForgottenDungeon_81
+  - first:
+      213: 999256894014248598
+    second: ForgottenDungeon_82
+  - first:
+      213: 5339049367467055188
+    second: ForgottenDungeon_84
+  - first:
+      213: 9093478952777403105
+    second: ForgottenDungeon_85
+  - first:
+      213: -3275001884946721553
+    second: ForgottenDungeon_86
+  - first:
+      213: -1132319154893809713
+    second: ForgottenDungeon_87
+  - first:
+      213: -2633010650466991590
+    second: ForgottenDungeon_88
+  - first:
+      213: -4478013156621120820
+    second: ForgottenDungeon_89
+  - first:
+      213: 7523937892797885416
+    second: ForgottenDungeon_94
+  - first:
+      213: 7239947859683585453
+    second: ForgottenDungeon_95
+  - first:
+      213: 3211105232294151589
+    second: ForgottenDungeon_96
+  - first:
+      213: 183003735101846615
+    second: ForgottenDungeon_97
+  - first:
+      213: -7838265196260894327
+    second: ForgottenDungeon_98
+  - first:
+      213: -7022977798728101864
+    second: ForgottenDungeon_99
+  - first:
+      213: -6129478797550672025
+    second: ForgottenDungeon_100
+  - first:
+      213: -689863571279050770
+    second: ForgottenDungeon_101
+  - first:
+      213: -7262071972506293198
+    second: ForgottenDungeon_102
+  - first:
+      213: 224273738264479288
+    second: ForgottenDungeon_103
+  - first:
+      213: -3648012277807016420
+    second: ForgottenDungeon_104
+  - first:
+      213: -7627785768933948210
+    second: ForgottenDungeon_105
+  - first:
+      213: 8127283588171947805
+    second: ForgottenDungeon_106
+  - first:
+      213: 2663044406553505847
+    second: ForgottenDungeon_107
+  - first:
+      213: -5829006399135796403
+    second: ForgottenDungeon_108
+  - first:
+      213: 1620869637410804015
+    second: ForgottenDungeon_109
+  - first:
+      213: -3555283892104067268
+    second: ForgottenDungeon_110
+  - first:
+      213: -5395497123049019074
+    second: ForgottenDungeon_111
+  - first:
+      213: -8531178835601015027
+    second: ForgottenDungeon_112
+  - first:
+      213: -3566358825184457876
+    second: ForgottenDungeon_113
+  - first:
+      213: -8346554827756589350
+    second: ForgottenDungeon_114
+  - first:
+      213: 5742637673383761659
+    second: ForgottenDungeon_115
+  - first:
+      213: -604877229423705821
+    second: ForgottenDungeon_116
+  - first:
+      213: 4008488017181304522
+    second: ForgottenDungeon_117
+  - first:
+      213: 5400517279138679369
+    second: ForgottenDungeon_118
+  - first:
+      213: 5573899867175398004
+    second: ForgottenDungeon_119
+  - first:
+      213: -848913132496040527
+    second: ForgottenDungeon_120
+  - first:
+      213: 1434471099330645342
+    second: ForgottenDungeon_121
+  - first:
+      213: 3353849499358228732
+    second: ForgottenDungeon_122
+  - first:
+      213: 4972184742652541711
+    second: ForgottenDungeon_123
+  - first:
+      213: -8887908925228951501
+    second: ForgottenDungeon_124
+  - first:
+      213: 2906731894199607889
+    second: ForgottenDungeon_125
+  - first:
+      213: 3575755129356343608
+    second: ForgottenDungeon_126
+  - first:
+      213: -9179028870715339076
+    second: ForgottenDungeon_127
+  - first:
+      213: 3180608673502328957
+    second: ForgottenDungeon_128
+  - first:
+      213: 2385643290709724152
+    second: ForgottenDungeon_129
+  - first:
+      213: -3549444862357929676
+    second: ForgottenDungeon_130
+  - first:
+      213: 5929483704353070687
+    second: ForgottenDungeon_131
+  - first:
+      213: -4701361994786459615
+    second: ForgottenDungeon_132
+  - first:
+      213: 2051572065589966868
+    second: ForgottenDungeon_133
+  - first:
+      213: 3448852842212906015
+    second: ForgottenDungeon_134
+  - first:
+      213: -3809274930112064391
+    second: ForgottenDungeon_135
+  - first:
+      213: 712025677218024927
+    second: ForgottenDungeon_136
+  - first:
+      213: -7542886910684894531
+    second: ForgottenDungeon_137
+  - first:
+      213: -5030407395084255337
+    second: ForgottenDungeon_138
+  - first:
+      213: 6650676615128820887
+    second: ForgottenDungeon_139
+  - first:
+      213: -4714207121048121783
+    second: ForgottenDungeon_140
+  - first:
+      213: 1409595115673165837
+    second: ForgottenDungeon_141
+  - first:
+      213: 7305325224913066782
+    second: ForgottenDungeon_142
+  - first:
+      213: 1844626052831978023
+    second: ForgottenDungeon_143
+  - first:
+      213: 4125522648495074346
+    second: ForgottenDungeon_144
+  - first:
+      213: -179300126296871318
+    second: ForgottenDungeon_145
+  - first:
+      213: 1770694139309487908
+    second: ForgottenDungeon_146
+  - first:
+      213: 2521459496722472636
+    second: ForgottenDungeon_147
+  - first:
+      213: 4956219388290157312
+    second: ForgottenDungeon_148
+  - first:
+      213: 3506597921538797023
+    second: ForgottenDungeon_149
+  - first:
+      213: 3585879675552314121
+    second: ForgottenDungeon_150
+  - first:
+      213: 5046840876747473215
+    second: ForgottenDungeon_151
+  - first:
+      213: 3259371129320583086
+    second: ForgottenDungeon_152
+  - first:
+      213: -5463747334529779190
+    second: ForgottenDungeon_153
+  - first:
+      213: -5701241923097654580
+    second: ForgottenDungeon_154
+  - first:
+      213: -259679666939152831
+    second: ForgottenDungeon_155
+  - first:
+      213: 1713700908340361276
+    second: ForgottenDungeon_156
+  - first:
+      213: 8286116928995089228
+    second: ForgottenDungeon_157
+  - first:
+      213: 1788298327429320525
+    second: ForgottenDungeon_158
+  - first:
+      213: 1074927418117043579
+    second: ForgottenDungeon_159
+  - first:
+      213: -8993075593470663555
+    second: ForgottenDungeon_160
+  - first:
+      213: 5882411932995802991
+    second: ForgottenDungeon_161
+  - first:
+      213: 1419889491773944951
+    second: ForgottenDungeon_162
+  - first:
+      213: 4418087848101783686
+    second: ForgottenDungeon_163
+  - first:
+      213: -8337262971754111525
+    second: ForgottenDungeon_164
+  - first:
+      213: -8260376721679424835
+    second: ForgottenDungeon_165
+  - first:
+      213: 798410930660786143
+    second: ForgottenDungeon_166
+  - first:
+      213: 6184732841352591543
+    second: ForgottenDungeon_167
+  - first:
+      213: -8614551273666778575
+    second: ForgottenDungeon_168
+  - first:
+      213: 2317839122629764120
+    second: ForgottenDungeon_169
+  - first:
+      213: -4250735392725487612
+    second: ForgottenDungeon_170
+  - first:
+      213: -744334027675790485
+    second: ForgottenDungeon_171
+  - first:
+      213: -6063192102274530283
+    second: ForgottenDungeon_172
+  - first:
+      213: 4937738801798937199
+    second: ForgottenDungeon_173
+  - first:
+      213: -836442484601095255
+    second: ForgottenDungeon_174
+  - first:
+      213: -5392154833602889675
+    second: ForgottenDungeon_175
+  - first:
+      213: -5989783786512533922
+    second: ForgottenDungeon_176
+  - first:
+      213: -9010816164845565115
+    second: ForgottenDungeon_177
+  - first:
+      213: -2328022396221759512
+    second: ForgottenDungeon_178
+  - first:
+      213: -5166809121108002845
+    second: ForgottenDungeon_179
+  - first:
+      213: 8259706017113025296
+    second: ForgottenDungeon_180
+  - first:
+      213: -7157024441790957455
+    second: ForgottenDungeon_181
+  - first:
+      213: 3348379382020335824
+    second: ForgottenDungeon_182
+  - first:
+      213: -7752445322499148300
+    second: ForgottenDungeon_183
+  - first:
+      213: 2442615745710982177
+    second: ForgottenDungeon_184
+  - first:
+      213: -7638570034246184424
+    second: ForgottenDungeon_185
+  - first:
+      213: -1332321625325071367
+    second: ForgottenDungeon_186
+  - first:
+      213: 2190315477681532909
+    second: ForgottenDungeon_187
+  - first:
+      213: 6471026444074494550
+    second: ForgottenDungeon_188
+  - first:
+      213: 2440979885406941557
+    second: ForgottenDungeon_189
+  - first:
+      213: 1789473932445485130
+    second: ForgottenDungeon_190
+  - first:
+      213: 7742192239381051124
+    second: ForgottenDungeon_191
+  - first:
+      213: -7698621882520755939
+    second: ForgottenDungeon_192
+  - first:
+      213: -1089657317306822822
+    second: ForgottenDungeon_193
+  - first:
+      213: 1672646101726398793
+    second: ForgottenDungeon_194
+  - first:
+      213: -458085959687364105
+    second: ForgottenDungeon_195
+  - first:
+      213: 4146631656975770479
+    second: ForgottenDungeon_196
+  - first:
+      213: 7855191484152015978
+    second: ForgottenDungeon_197
+  - first:
+      213: -6161851771337730743
+    second: ForgottenDungeon_198
+  - first:
+      213: 3345250877710912960
+    second: ForgottenDungeon_199
+  - first:
+      213: -8645420734241003229
+    second: ForgottenDungeon_200
+  - first:
+      213: 7513708748171770725
+    second: ForgottenDungeon_201
+  - first:
+      213: -8989118187152517621
+    second: ForgottenDungeon_202
+  - first:
+      213: -6350397117369183154
+    second: ForgottenDungeon_203
+  - first:
+      213: -712760223925919876
+    second: ForgottenDungeon_204
+  - first:
+      213: -3974999168917218188
+    second: ForgottenDungeon_205
+  - first:
+      213: -4243824944262857061
+    second: ForgottenDungeon_206
+  - first:
+      213: -2577271704026225744
+    second: ForgottenDungeon_207
+  - first:
+      213: -2915165787019874515
+    second: ForgottenDungeon_208
+  - first:
+      213: -3838658774565220641
+    second: ForgottenDungeon_209
+  - first:
+      213: -8224002983888792449
+    second: ForgottenDungeon_210
+  - first:
+      213: 3945608503253115964
+    second: ForgottenDungeon_211
+  - first:
+      213: -1592755284265989719
+    second: ForgottenDungeon_212
+  - first:
+      213: 1354265043738858151
+    second: ForgottenDungeon_213
+  - first:
+      213: 8456037157273877149
+    second: ForgottenDungeon_214
+  - first:
+      213: -3709927873980002948
+    second: ForgottenDungeon_215
+  - first:
+      213: -6578902941632325872
+    second: ForgottenDungeon_216
+  - first:
+      213: 7917140759311588794
+    second: ForgottenDungeon_217
+  - first:
+      213: 8992647666483069682
+    second: ForgottenDungeon_218
+  - first:
+      213: 2101700637033145539
+    second: ForgottenDungeon_219
+  - first:
+      213: -3093444250054044283
+    second: ForgottenDungeon_220
+  - first:
+      213: 6858757897727882334
+    second: ForgottenDungeon_221
+  - first:
+      213: 4936469244988264610
+    second: ForgottenDungeon_222
+  - first:
+      213: -7606375399918347482
+    second: ForgottenDungeon_223
+  - first:
+      213: 7615245878951150082
+    second: ForgottenDungeon_224
+  - first:
+      213: 844722319272596114
+    second: ForgottenDungeon_225
+  - first:
+      213: 8605931691142221300
+    second: ForgottenDungeon_226
+  - first:
+      213: 343196894074393152
+    second: ForgottenDungeon_227
+  - first:
+      213: 7399258292637457251
+    second: ForgottenDungeon_228
+  - first:
+      213: 843645327176735757
+    second: ForgottenDungeon_229
+  - first:
+      213: 8627179279336651650
+    second: ForgottenDungeon_230
+  - first:
+      213: 3889340950863971214
+    second: ForgottenDungeon_231
+  - first:
+      213: -7576686620669504518
+    second: ForgottenDungeon_232
+  - first:
+      213: -458721679235165412
+    second: ForgottenDungeon_233
+  - first:
+      213: -5415863728715460349
+    second: ForgottenDungeon_234
+  - first:
+      213: -5300834353058924239
+    second: ForgottenDungeon_235
+  - first:
+      213: -1492142546527363819
+    second: ForgottenDungeon_236
+  - first:
+      213: 6641368122739555844
+    second: ForgottenDungeon_237
+  - first:
+      213: 7535039324730807155
+    second: ForgottenDungeon_238
+  - first:
+      213: -4194174816452918220
+    second: ForgottenDungeon_239
+  - first:
+      213: 8456552513885866947
+    second: ForgottenDungeon_240
+  - first:
+      213: -6811248644626093097
+    second: ForgottenDungeon_241
+  - first:
+      213: -7748945205718664122
+    second: ForgottenDungeon_242
+  - first:
+      213: -8873977278778750171
+    second: ForgottenDungeon_243
+  - first:
+      213: 8983041899872743411
+    second: ForgottenDungeon_244
+  - first:
+      213: -4239588103033709795
+    second: ForgottenDungeon_245
+  - first:
+      213: -5347711623637209134
+    second: ForgottenDungeon_246
+  - first:
+      213: 7052382200211340817
+    second: ForgottenDungeon_247
+  - first:
+      213: -3373675070483997482
+    second: ForgottenDungeon_248
+  - first:
+      213: -3017753246266904850
+    second: ForgottenDungeon_249
+  - first:
+      213: -4380642423595276410
+    second: ForgottenDungeon_250
+  - first:
+      213: -5335543236377258050
+    second: ForgottenDungeon_251
+  - first:
+      213: 4935669214268242908
+    second: ForgottenDungeon_252
+  - first:
+      213: -2444896093150363448
+    second: ForgottenDungeon_253
+  - first:
+      213: 1102272190543044808
+    second: ForgottenDungeon_254
+  - first:
+      213: -3221452727903959833
+    second: ForgottenDungeon_255
+  - first:
+      213: -6922718892219466108
+    second: ForgottenDungeon_256
+  - first:
+      213: 716940622224214136
+    second: ForgottenDungeon_257
+  - first:
+      213: -3347069347811800274
+    second: ForgottenDungeon_258
+  - first:
+      213: -7728392285952481079
+    second: ForgottenDungeon_259
+  - first:
+      213: -8567197536535826070
+    second: ForgottenDungeon_260
+  - first:
+      213: -3594461155561302603
+    second: ForgottenDungeon_261
+  - first:
+      213: -8216453908647106398
+    second: ForgottenDungeon_262
+  - first:
+      213: 3102384904001843812
+    second: ForgottenDungeon_263
+  - first:
+      213: -2718225331380855619
+    second: ForgottenDungeon_264
+  - first:
+      213: 4509947207837128664
+    second: ForgottenDungeon_265
+  - first:
+      213: -7904431813784718438
+    second: ForgottenDungeon_266
+  - first:
+      213: -2820454603933641628
+    second: ForgottenDungeon_267
+  - first:
+      213: -5532006401262368919
+    second: ForgottenDungeon_268
+  - first:
+      213: -8141410880200092466
+    second: ForgottenDungeon_269
+  - first:
+      213: -1244139974478694868
+    second: ForgottenDungeon_270
+  - first:
+      213: -342000214672636922
+    second: ForgottenDungeon_271
+  - first:
+      213: -1780119661071262792
+    second: ForgottenDungeon_272
+  - first:
+      213: 5775045807819390771
+    second: ForgottenDungeon_273
+  - first:
+      213: 911993133102537970
+    second: ForgottenDungeon_274
+  - first:
+      213: 2036167400985960806
+    second: ForgottenDungeon_275
+  - first:
+      213: 5493821514665204526
+    second: ForgottenDungeon_276
+  - first:
+      213: -5793288696116683935
+    second: ForgottenDungeon_277
+  - first:
+      213: -6540484043963107170
+    second: ForgottenDungeon_278
+  - first:
+      213: 7413711904666594565
+    second: ForgottenDungeon_279
+  - first:
+      213: -3403920835853416615
+    second: ForgottenDungeon_280
+  - first:
+      213: -7306621340678696744
+    second: ForgottenDungeon_281
+  - first:
+      213: 2693010994832380537
+    second: ForgottenDungeon_282
+  - first:
+      213: -1475861658156706727
+    second: ForgottenDungeon_283
+  - first:
+      213: 2455341922259887085
+    second: ForgottenDungeon_284
+  - first:
+      213: -5040920136925597957
+    second: ForgottenDungeon_285
+  - first:
+      213: 5566285184778743531
+    second: ForgottenDungeon_286
+  - first:
+      213: -2658140324468720108
+    second: ForgottenDungeon_287
+  - first:
+      213: -2750717548518905434
+    second: ForgottenDungeon_288
+  - first:
+      213: 6799123297098952374
+    second: ForgottenDungeon_289
+  - first:
+      213: 2228207920879595585
+    second: ForgottenDungeon_290
+  - first:
+      213: 1747207810572298345
+    second: ForgottenDungeon_291
+  - first:
+      213: 8053873735468316547
+    second: ForgottenDungeon_292
+  - first:
+      213: -3535696264638564656
+    second: ForgottenDungeon_293
+  - first:
+      213: -3499983590316696823
+    second: ForgottenDungeon_294
+  - first:
+      213: -6622341942740533105
+    second: ForgottenDungeon_295
+  - first:
+      213: 1918359641506254827
+    second: ForgottenDungeon_296
+  - first:
+      213: -7755089247751520205
+    second: ForgottenDungeon_297
+  - first:
+      213: -3101453643648742766
+    second: ForgottenDungeon_298
+  - first:
+      213: 3676244115624703230
+    second: ForgottenDungeon_299
+  - first:
+      213: -7562978150266299630
+    second: ForgottenDungeon_300
+  - first:
+      213: -7651219398177168197
+    second: ForgottenDungeon_301
+  - first:
+      213: 989454539365844800
+    second: ForgottenDungeon_302
+  - first:
+      213: 4351051198953316827
+    second: ForgottenDungeon_303
+  - first:
+      213: -799132407337544060
+    second: ForgottenDungeon_304
+  - first:
+      213: -4492754320856583217
+    second: ForgottenDungeon_305
+  - first:
+      213: -5560376339544237211
+    second: ForgottenDungeon_306
+  - first:
+      213: 6359429434623259665
+    second: ForgottenDungeon_307
+  - first:
+      213: -3973384025259179458
+    second: ForgottenDungeon_308
+  - first:
+      213: 7251472590646410858
+    second: ForgottenDungeon_309
+  - first:
+      213: 4957206246778571054
+    second: ForgottenDungeon_310
+  - first:
+      213: 6321555304467600470
+    second: ForgottenDungeon_311
+  - first:
+      213: -7295654046328761048
+    second: ForgottenDungeon_312
+  - first:
+      213: -1546624273392224760
+    second: ForgottenDungeon_313
+  - first:
+      213: -1682124421864287714
+    second: ForgottenDungeon_314
+  - first:
+      213: -7686855284730837742
+    second: ForgottenDungeon_315
+  - first:
+      213: 904145300229883652
+    second: ForgottenDungeon_316
+  - first:
+      213: 8473382010469739857
+    second: ForgottenDungeon_317
+  - first:
+      213: -7492331780651687017
+    second: ForgottenDungeon_318
+  - first:
+      213: -7932787416900827397
+    second: ForgottenDungeon_319
+  - first:
+      213: 3704568240613155447
+    second: ForgottenDungeon_320
+  - first:
+      213: 6772421822301221788
+    second: ForgottenDungeon_321
+  - first:
+      213: -8979611084823501716
+    second: ForgottenDungeon_322
+  - first:
+      213: 9068862852204908380
+    second: ForgottenDungeon_323
+  - first:
+      213: 1268163537255962705
+    second: ForgottenDungeon_324
+  - first:
+      213: 1922677095268780277
+    second: ForgottenDungeon_325
+  - first:
+      213: 3309139709761657395
+    second: ForgottenDungeon_326
+  - first:
+      213: -6893065753093933429
+    second: ForgottenDungeon_327
+  - first:
+      213: 3455513434088415307
+    second: ForgottenDungeon_328
+  - first:
+      213: 7296035834625556415
+    second: ForgottenDungeon_329
+  - first:
+      213: -519436525669834068
+    second: ForgottenDungeon_330
+  - first:
+      213: -6611480779730720948
+    second: ForgottenDungeon_331
+  - first:
+      213: -2931851809785855129
+    second: ForgottenDungeon_332
+  - first:
+      213: 4539248243383179978
+    second: ForgottenDungeon_333
+  - first:
+      213: 2268784770507015603
+    second: ForgottenDungeon_334
+  - first:
+      213: -3632089661251185817
+    second: ForgottenDungeon_335
+  - first:
+      213: 6303259184916998929
+    second: ForgottenDungeon_336
+  - first:
+      213: -2931554364258577801
+    second: ForgottenDungeon_337
+  - first:
+      213: 7493745397102931402
+    second: ForgottenDungeon_338
+  - first:
+      213: -288956105332246877
+    second: ForgottenDungeon_339
+  - first:
+      213: 4959322287617238041
+    second: ForgottenDungeon_340
+  - first:
+      213: -7269247660379941857
+    second: ForgottenDungeon_341
+  - first:
+      213: 544715570349538891
+    second: ForgottenDungeon_342
+  - first:
+      213: -692054321920200348
+    second: ForgottenDungeon_343
+  - first:
+      213: -2972500549070650973
+    second: ForgottenDungeon_344
+  - first:
+      213: 2283398515163752641
+    second: ForgottenDungeon_345
+  - first:
+      213: -7678666027115573673
+    second: ForgottenDungeon_346
+  - first:
+      213: 3251647375929982400
+    second: ForgottenDungeon_347
+  - first:
+      213: 962916521702755112
+    second: ForgottenDungeon_348
+  - first:
+      213: 5345939448635786138
+    second: ForgottenDungeon_349
+  - first:
+      213: -6770789064129768976
+    second: ForgottenDungeon_350
+  - first:
+      213: 98722406278985967
+    second: ForgottenDungeon_351
+  - first:
+      213: 5282004420874377042
+    second: ForgottenDungeon_352
+  - first:
+      213: 2584987994312047014
+    second: ForgottenDungeon_353
+  - first:
+      213: 3700356804237701219
+    second: ForgottenDungeon_354
+  - first:
+      213: -422112127919618130
+    second: ForgottenDungeon_355
+  - first:
+      213: -4334301120151502109
+    second: ForgottenDungeon_356
+  - first:
+      213: -832745316455411121
+    second: ForgottenDungeon_357
+  - first:
+      213: 6213083004237912073
+    second: ForgottenDungeon_358
+  - first:
+      213: -3777587864274540689
+    second: ForgottenDungeon_359
+  - first:
+      213: -2770984624415836358
+    second: ForgottenDungeon_360
+  - first:
+      213: 2202266740561195306
+    second: ForgottenDungeon_361
+  - first:
+      213: 2686465515493794885
+    second: ForgottenDungeon_362
+  - first:
+      213: 7976763025321535232
+    second: ForgottenDungeon_363
+  - first:
+      213: 1525495572588671842
+    second: ForgottenDungeon_364
+  - first:
+      213: 2944681498188632565
+    second: ForgottenDungeon_365
+  - first:
+      213: 7756431710453049952
+    second: ForgottenDungeon_366
+  - first:
+      213: -5883005557305568889
+    second: ForgottenDungeon_367
+  - first:
+      213: -1162491759119557952
+    second: ForgottenDungeon_368
+  - first:
+      213: -6600185633538870648
+    second: ForgottenDungeon_369
+  - first:
+      213: 8022241285437307105
+    second: ForgottenDungeon_370
+  - first:
+      213: -2496824206194179894
+    second: ForgottenDungeon_371
+  - first:
+      213: -5234281981932808016
+    second: ForgottenDungeon_372
+  - first:
+      213: 510484243022676527
+    second: ForgottenDungeon_373
+  - first:
+      213: -8500507368035108587
+    second: ForgottenDungeon_374
+  - first:
+      213: -6187467531468853862
+    second: ForgottenDungeon_375
+  - first:
+      213: 5544407818206482678
+    second: ForgottenDungeon_376
+  - first:
+      213: -636604978322168863
+    second: ForgottenDungeon_377
+  - first:
+      213: 1200878164683047800
+    second: ForgottenDungeon_378
+  - first:
+      213: 5518547165652753297
+    second: ForgottenDungeon_379
+  - first:
+      213: 2600847819378843203
+    second: ForgottenDungeon_380
+  - first:
+      213: -4331635711194374888
+    second: ForgottenDungeon_381
+  - first:
+      213: -6472101557483678728
+    second: ForgottenDungeon_382
+  - first:
+      213: 1517064484125254323
+    second: ForgottenDungeon_383
+  - first:
+      213: 5397374642901450742
+    second: ForgottenDungeon_384
+  - first:
+      213: 4335773164786721091
+    second: ForgottenDungeon_385
+  - first:
+      213: -1153620871856230473
+    second: ForgottenDungeon_386
+  - first:
+      213: 3977707084331068737
+    second: ForgottenDungeon_387
+  - first:
+      213: -7068272465052357386
+    second: ForgottenDungeon_388
+  - first:
+      213: 2651445990226044124
+    second: ForgottenDungeon_389
+  - first:
+      213: 5177135013943436802
+    second: ForgottenDungeon_390
+  - first:
+      213: -511286384093434309
+    second: ForgottenDungeon_391
+  - first:
+      213: -7500942933159015023
+    second: ForgottenDungeon_392
+  - first:
+      213: 7487857880496011880
+    second: ForgottenDungeon_393
+  - first:
+      213: 373459434412401247
+    second: ForgottenDungeon_394
+  - first:
+      213: -5527281487611543382
+    second: ForgottenDungeon_395
+  - first:
+      213: -2534620267085608023
+    second: ForgottenDungeon_396
+  - first:
+      213: -7009842541196922405
+    second: ForgottenDungeon_397
+  - first:
+      213: 7968042601689212904
+    second: ForgottenDungeon_398
+  - first:
+      213: -2046609982144726215
+    second: ForgottenDungeon_399
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForgottenDungeon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128fe3d024690145a8c6940a9382fc7
+      internalID: 8154580010414714901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c75aab67f634d4da88f67d588b7154
+      internalID: -3411284155629496090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fd0b03c88e75409e85b27d8693268
+      internalID: 4240327381334367298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09147ebb1b86f846993ce885f77208d
+      internalID: -7440449033348997407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70531484ce3928649a6232ccb8a63f6c
+      internalID: 7477512684838953071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00c32359c56b449bdc39128bb8fa02
+      internalID: 422536767081508554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3424605ee6d34393ed8e40318c46e
+      internalID: -1071002951800352649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79364b16477a77e4ba5f6273fbe5b7dc
+      internalID: -6747666457811191301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625bddb081ecf5b4987bdde1aa196dd3
+      internalID: 4956886665827326388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91456babdfe667f4ca9dfd36aef54a5b
+      internalID: 4938425995242795944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59fafff77b3182488afbc709e80d6a6
+      internalID: -203623352368874595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b240744d915f428e54fef33637789
+      internalID: 6166620056678506438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097567a592b945438bce9a23accfa85
+      internalID: -173560063300994443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd9511f4b077940baebca1a0672a9e
+      internalID: -4315335758424523211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa152894d01bfaf4199a63ab75f31e77
+      internalID: -5665658895121991844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13189067b45ad944ba602c5ee76d4dad
+      internalID: -2137846710841875432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea195ed19033c4f81c6af63a21c1d2
+      internalID: -4428158677836333061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bea1d547ceba4884f9c834f1d38fa
+      internalID: 1650867466512537486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ebcad9dd2eb6443af942bbae9a39f8
+      internalID: -7937114788468578155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6330401d40d75b448fd7d3a6d65c980
+      internalID: -7717439583087562044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025c32ea6ed278942809cd90ca8325fe
+      internalID: 1638594928402970466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d38bb5e64af8144ab1945f94674df7
+      internalID: -198239000513008297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70492418217436740ad74c9de794a7a3
+      internalID: 2490227448639641622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69641d7cf2c4a4c9bf1c32da9d3700
+      internalID: -7246127768695043099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf46248e9dc9f44ca58191261a5cb03
+      internalID: -4159147396059417449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789acb6175b4cdd42a768dddd7f11c4d
+      internalID: -4808627306116980688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4dc6bf3f0ad84cbbeb20060ff7e7a
+      internalID: -842570003203907856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed89412bafee34a4e86091602c334599
+      internalID: 1166495770608599831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92eb81838ecdd43990ff95a3bac126
+      internalID: -8422391942332891653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480c325d9ff76e49b5f3b64fa157846
+      internalID: 69770905396670572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3e49d8855cd046baa3f5fecda3800
+      internalID: 6745564148527133664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f14c08e08325e45b2289f0701a2fd8
+      internalID: -1252514438879175457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9914a9787e6da4d8e02e1f7df5667f
+      internalID: 754740558255616415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76a87880af2974e941904d288940bb
+      internalID: 2246922014100272130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083bd425a1313e94ca508dbcc5914921
+      internalID: 4499087800165328145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0907f7cfab0bf4ab76ae66061ed163
+      internalID: -8593329924589903245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04480e73a0e6514db20e8bc7bf3e7e6
+      internalID: 293663723189969412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36248bc2a95d01744a21885abbae7fb9
+      internalID: -2672317391361802621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25097ab5991eccb4d94599ad3912c1d7
+      internalID: -8604794338058872394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c80c8278e580ad4c9f5a2efbc48f9d7
+      internalID: 6022887058712577558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab2b3280763a1f4d9d2ce37bba9bc31
+      internalID: -6854351795699888988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c27d4db122ac4c85529e10142a950
+      internalID: 2050549614465107469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2f105e020596428bd425a274ae6a9
+      internalID: 6044242637681993438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a61ecf86604e45874f433691cd613
+      internalID: -7582850931473906407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae664c36a322da843bc3a0c594f0b693
+      internalID: -5288171915677962710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9971914c4f402a24b9bdeeb4967d5641
+      internalID: -5284200335924123288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dd0b8958498784785a164d5597c3c2
+      internalID: -4548569692318027499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15732acb8a93e95469bae42534c8a9f8
+      internalID: -3313668031387929615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ec6b3e0ac1724e952dd4cee04650d
+      internalID: 1865117174825622450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d34b6e08855b04489f10b06cf5bfda
+      internalID: -2638525205308947480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e464f7f4fb0c444996d851e76dc7e7
+      internalID: -6399135107957296535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fba0d21df9a27043a099557e6c45b6c
+      internalID: 9040333126679387438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb76a992ba7714f93183a3472c891f
+      internalID: -3761877113497824564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d369da9c7a554e9145715c8886489
+      internalID: 6094661640860054472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192cbf15e000038428cfce8cbf236fb8
+      internalID: 3475751569743879536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddadbab1c8e0045a391ce6554d55f4
+      internalID: 3724027349515882965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802e179d4870434d8f7b72411a414a9
+      internalID: 6129175927485261558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb838b11d5fb19458616788ba273473
+      internalID: 7487922768221419613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b633e8086b96418f4eaf01c316df0
+      internalID: -3053621425238736987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce88e9a67b3ef2439bad24529e9539d
+      internalID: 7433514446375184545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c698c84693d84ca042222b5bb0aaf
+      internalID: 8316086377375325865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd72fb91c59d84abd4aeab69c7750f
+      internalID: -1426390615364894635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfbf2bcc6ebc545a8f382c8855ca96
+      internalID: -6416143303890260204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3746ce0be0d44247b15ca4b45522aa6
+      internalID: -4149854710858687475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015fcf90fcf8e74082078984ab3224f
+      internalID: -677238982836304042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb135d2ba5cb741a5b3a6c0dea28c1
+      internalID: 2202724917020963950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc72f37ec87d99f489936be6d6d7611b
+      internalID: -6864157743154548899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0e721e92105a4da9bb3b73aa43e19
+      internalID: 3756810377354162013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b0cddd02febd4cb4b8f00111ef6d4
+      internalID: -9031108083502670221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35f63d28bdd2146b7270de5bc78d3d
+      internalID: -7850922207165024619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30183d1c407785d46a0d75f7ab1fdc51
+      internalID: 5579557300296503043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1801e8204a6de94d9534511015859f4
+      internalID: 3120281880571831927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93933ba049c22a64b9eb145f53f9baa7
+      internalID: 3522241419860222129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203fbcb8ecca0d4b81c8a60d1009889
+      internalID: -3600686391354632881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555b03c05f2cbe488f9d0776021f4c1
+      internalID: 8197102245605013655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff844cbdd8c8fb4eafca43784387c2f
+      internalID: -123410592409642478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca216ed1c5b11445a82b30ecce326e2
+      internalID: -3774786252445920241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533026b762423b4bbae4c8da4cc41c0
+      internalID: -2544665554040997748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb74862595d364e960f68e08907b25
+      internalID: 3703354700588936358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57f4c239a93c0478c024b4f2b82c29
+      internalID: -9180950147417822297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06564ec0ff4ad4abeded5c80daa41b
+      internalID: -418240376692359450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cce9bde6e65f4fa8575bbc7663632
+      internalID: -4561033568726883250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771cfb9d6a4e5df4f840ac8fadc204b7
+      internalID: 999256894014248598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db829c0381810aa4d81078d22ab47bda
+      internalID: -7018734929064142862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b00c95169bca4286f2ed04f2bd338
+      internalID: 5339049367467055188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be976e1374310f24a86f4b542f0a26a1
+      internalID: 9093478952777403105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19cfa3f5680c5428b3e1af28406131
+      internalID: -3275001884946721553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22349be53dac80b4cb30c14e7df872f4
+      internalID: -1132319154893809713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60349125744f6bd4982ae43488a936e7
+      internalID: -2633010650466991590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b0baef4cfee84e8b360ea1f773d85
+      internalID: -4478013156621120820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03365b7810a845849b264bfa6b60e4b2
+      internalID: -6380776229076109286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376037a437401ae4a949d8bfca446876
+      internalID: 351778000870424761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3c1756934b9347bfe79750602ab4f
+      internalID: -540519028410064243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e4e116954f5d4284f3c60d7d435e5
+      internalID: -2749178832795448165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c435d81593c3459605db68f4677ff
+      internalID: 7523937892797885416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19a9471051d0f6419240161c60f0f8f
+      internalID: 7239947859683585453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4d65fe119c444682e623f5fbe0c55
+      internalID: 3211105232294151589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2709d0460091ca4689dbdf758baa656
+      internalID: 183003735101846615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6856dee6c21a9f4c88c872c377507d8
+      internalID: -7838265196260894327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgottenDungeon_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736410dd6f2c314988da37db020cee2
+      internalID: -7022977798728101864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

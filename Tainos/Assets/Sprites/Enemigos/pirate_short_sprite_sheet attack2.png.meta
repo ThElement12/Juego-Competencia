@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 568fb7d0ab7b8154888de500558e6ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8595400676137177285
+    second: pirate_short_sprite_sheet attack2_0
+  - first:
+      213: 8939310976838036339
+    second: pirate_short_sprite_sheet attack2_1
+  - first:
+      213: 1755200014670496024
+    second: pirate_short_sprite_sheet attack2_2
+  - first:
+      213: 3264773836419769574
+    second: pirate_short_sprite_sheet attack2_3
+  - first:
+      213: -9012330707010658642
+    second: pirate_short_sprite_sheet attack2_4
+  - first:
+      213: 7373084190637809018
+    second: pirate_short_sprite_sheet attack2_5
+  - first:
+      213: -7795059779065730158
+    second: pirate_short_sprite_sheet attack2_6
+  - first:
+      213: 3080548214726739644
+    second: pirate_short_sprite_sheet attack2_7
+  - first:
+      213: -7758872410210432397
+    second: pirate_short_sprite_sheet attack2_8
+  - first:
+      213: 5070730241172238526
+    second: pirate_short_sprite_sheet attack2_9
+  - first:
+      213: -2121302631510361451
+    second: pirate_short_sprite_sheet attack2_10
+  - first:
+      213: 7525300932436720121
+    second: pirate_short_sprite_sheet attack2_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9bee7ce8e96e246bf20cea0fa5c871
+      internalID: -8595400676137177285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 19
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b2bc60fd18084a84dce26e48cc74d
+      internalID: 8939310976838036339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090b7fb36488ee4a8b30f322f74b95b
+      internalID: 1755200014670496024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36fddde8c075545af363ac34dff1a4
+      internalID: 3264773836419769574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 19
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4227dc348c9da40a4530399622015f
+      internalID: -9012330707010658642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 19
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ccf29237f687948bcad4c4d35db3eb
+      internalID: 7373084190637809018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 19
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b39632f34f65e4bb05f8355c770350
+      internalID: -7795059779065730158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 19
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f0c6e6cffb1a4397831f03c1f9f40
+      internalID: 3080548214726739644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 19
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824874722f1c01b45be54be500f668c0
+      internalID: -7758872410210432397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 19
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c952e428eefd48993156e0bc43378
+      internalID: 5070730241172238526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 19
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15646b327b689514e81dd77235bd65b2
+      internalID: -2121302631510361451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet attack2_11
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 19
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854a1f88ee167d4b982e4c1a0a9a133
+      internalID: 7525300932436720121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

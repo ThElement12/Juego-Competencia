@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2137408273831439049}
   - component: {fileID: 4236239933377517081}
+  - component: {fileID: 5158313392551991044}
+  - component: {fileID: 6232114098479631034}
   m_Layer: 0
   m_Name: NPC1
   m_TagString: Untagged
@@ -26,8 +28,9 @@ Transform:
   m_GameObject: {fileID: 320725700379468356}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -9.07, y: -2.98, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_LocalScale: {x: 0.26541796, y: 0.24468751, z: 1}
+  m_Children:
+  - {fileID: 4401085856770897123}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -81,3 +84,186 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &5158313392551991044
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320725700379468356}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.6666667, y: 6.133333}
+    newSize: {x: 0.8, y: 1.84}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.6666667, y: 6.133333}
+  m_EdgeRadius: 0
+--- !u!95 &6232114098479631034
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320725700379468356}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 785b11d0e6198a54798d95b1d358dd43, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &2771108572817081261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2137408273831439049}
+    m_Modifications:
+    - target: {fileID: 1974609446589855554, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_Name
+      value: zonaDialogoNPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22606014
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.49042097
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10.153797
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.597701
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: VentanaDialogoPrefab
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: dialogoAutomatico
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.data[0]
+      value: 'Taino:
+
+        Caonabo'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.data[1]
+      value: "Taino: \nTenemos que encontrar a un tipo desagradable en esta fortaleza"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.data[2]
+      value: 'Caonabo:
+
+        Como se llama?'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.data[3]
+      value: 'Taino:
+
+        Ruben. La pampara'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: TextoDialogo.Array.data[4]
+      value: 'Caonabo:
+
+        Oh. A ese e que le vamo a entrar esta yuca'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1974609446589855555, guid: 6e1abd209e9c28144a9267636a705745,
+        type: 3}
+      propertyPath: VentanaDialogo
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6e1abd209e9c28144a9267636a705745, type: 3}
+--- !u!4 &4401085856770897123 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1974609446589855566, guid: 6e1abd209e9c28144a9267636a705745,
+    type: 3}
+  m_PrefabInstance: {fileID: 2771108572817081261}
+  m_PrefabAsset: {fileID: 0}

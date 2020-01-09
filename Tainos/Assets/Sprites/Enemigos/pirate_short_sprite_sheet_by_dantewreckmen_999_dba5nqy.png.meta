@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 7bf767629beac4c40bac857474a5b311
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4944200385559370536
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_0
+  - first:
+      213: -111641117598515751
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_1
+  - first:
+      213: -4908556930347730272
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_2
+  - first:
+      213: 7358917883112416227
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_3
+  - first:
+      213: -2957641122199255945
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_4
+  - first:
+      213: 4756126252310512610
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_5
+  - first:
+      213: 3309337293647043388
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_6
+  - first:
+      213: -4625255725822599032
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_7
+  - first:
+      213: -1544771306654727697
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_8
+  - first:
+      213: -2477994028407722215
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_9
+  - first:
+      213: -8809383156444900389
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_10
+  - first:
+      213: -9160237266751682741
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_11
+  - first:
+      213: 8965637332673249005
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_12
+  - first:
+      213: 4326189582899094264
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_13
+  - first:
+      213: -8445062497731864728
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_14
+  - first:
+      213: -5081647157516541047
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_15
+  - first:
+      213: 3245042947125151446
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_16
+  - first:
+      213: 10094372214000118
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_17
+  - first:
+      213: 6581140807381989085
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_18
+  - first:
+      213: -1328441581517304352
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_19
+  - first:
+      213: 4494767321554915942
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_20
+  - first:
+      213: 2746873337246430087
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_21
+  - first:
+      213: -6043186214157241337
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_22
+  - first:
+      213: -9004270014082657686
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_23
+  - first:
+      213: 1698528354306991176
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_24
+  - first:
+      213: -3828462128504256121
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_25
+  - first:
+      213: -5186472910209758796
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_26
+  - first:
+      213: -7125973070992684529
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_27
+  - first:
+      213: 4790097817426779589
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_28
+  - first:
+      213: 171105508735707269
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_29
+  - first:
+      213: -982222812581675197
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_30
+  - first:
+      213: -38294913982469292
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_31
+  - first:
+      213: -4540404472547997614
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_32
+  - first:
+      213: 5150567487587720882
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_33
+  - first:
+      213: -861418899169965697
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_34
+  - first:
+      213: -7554849263015595366
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_35
+  - first:
+      213: 6090977454022862962
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_36
+  - first:
+      213: -6090495163329812201
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_37
+  - first:
+      213: 931780201085256377
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_38
+  - first:
+      213: -8492606093354326443
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_39
+  - first:
+      213: -217325810428512185
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_40
+  - first:
+      213: 7321646634472655311
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_41
+  - first:
+      213: -274091173432198656
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_42
+  - first:
+      213: 2197597578174012803
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_43
+  - first:
+      213: 8375706676553593204
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_44
+  - first:
+      213: 6182115291129437772
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_45
+  - first:
+      213: 2228272731039733695
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_46
+  - first:
+      213: 5766895273494661875
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_47
+  - first:
+      213: -9199135200430020904
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_48
+  - first:
+      213: 2875321503005438389
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_49
+  - first:
+      213: -5526497287907606999
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_50
+  - first:
+      213: 8460394596998704241
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_51
+  - first:
+      213: 4615254438898621815
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_52
+  - first:
+      213: -218857900430078419
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_53
+  - first:
+      213: 5489939289118517339
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_54
+  - first:
+      213: -1901459904819984502
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_55
+  - first:
+      213: 1892774849022039403
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_56
+  - first:
+      213: 6559022285339041022
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_57
+  - first:
+      213: 1905293433731360078
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_58
+  - first:
+      213: 5844420727753790997
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_59
+  - first:
+      213: 2306906095625441001
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_60
+  - first:
+      213: 2583881714570451775
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_61
+  - first:
+      213: 3864888504830612597
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_62
+  - first:
+      213: -7029780714250594591
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_63
+  - first:
+      213: 7648057861090990649
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_64
+  - first:
+      213: 3795597757539024114
+    second: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 338
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14a815f90282b48affefaae42ba663
+      internalID: 4944200385559370536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 338
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b5ccb378276944bab9ec649cd33b5
+      internalID: -111641117598515751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 338
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804324fd56dc5f4a90d8200c3dfdbb5
+      internalID: -4908556930347730272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 338
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc40a6bddfc1e148ab28404d6226caf
+      internalID: 7358917883112416227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 338
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234a37c0a1f1374eb2ac301dd002f5b
+      internalID: -2957641122199255945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 338
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412444fcda5ab94da73cd8cf269b27d
+      internalID: 4756126252310512610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 338
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157f1ce7e0551d43baeaf6df065348d
+      internalID: 3309337293647043388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1d35c7901ada4393ccf4b20e6b6d1
+      internalID: -4625255725822599032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 338
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd287d024fd73d24da0b889e96702781
+      internalID: -1544771306654727697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 276
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc365f9f5ea174428edf091aeb9d838
+      internalID: -2477994028407722215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 276
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5148bab5c0342074f8a897028ebd0b7f
+      internalID: -8809383156444900389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 276
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642720b9eb77964498fc6b31e9e547bd
+      internalID: -9160237266751682741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 276
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dbfc9cd08b89d46a3f4a828b7b6703
+      internalID: 8965637332673249005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 276
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ec1b184e9f044f85ff41d1eb37e40
+      internalID: 4326189582899094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 276
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c16f0af2ec27488747d69d0c16f25
+      internalID: -8445062497731864728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 276
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2eca6115ffccc48814165ab4bb03c4
+      internalID: -5081647157516541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 276
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207dffff906be3044b19f02e1c6ada76
+      internalID: 3245042947125151446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 276
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03afec9c4d6c71047af4a8b8cbafd7d3
+      internalID: 10094372214000118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 276
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ad9cea52c9a94dbfa2ae0579e9434
+      internalID: 6581140807381989085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 208
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803af3c8c6b5ee5428767a3710911940
+      internalID: -1328441581517304352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8428b9da444d7a44898c6bf792f5d2f3
+      internalID: 4494767321554915942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 208
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb7aaf9c57bd04ba9901a09370980f
+      internalID: 2746873337246430087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 208
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16389a9100d34fc4ea90c05547f2d303
+      internalID: -6043186214157241337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274a32eb66bfa40468b34d388b42a676
+      internalID: -9004270014082657686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 208
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a201e7c196ae1641b736ec78cadae95
+      internalID: 1698528354306991176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 208
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16ad723b0b7c146a940b37e7f6c792
+      internalID: -3828462128504256121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 208
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd92bd5db7a4a4aa378cf53790a740
+      internalID: -5186472910209758796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_27
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 208
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e990b32c01921640bbc56274f5bf7ed
+      internalID: -7125973070992684529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 208
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724127f6be96b64f8881df782d50553
+      internalID: 4790097817426779589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_29
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 208
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87102b11c3864044952a316660c6292
+      internalID: 171105508735707269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 208
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb594da4d62faa4ea2e1f5c553aa194
+      internalID: -982222812581675197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c591a645e020205449d4f0d135ebc1e9
+      internalID: -38294913982469292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 142
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4771cfd93cd784798cd250c435180e
+      internalID: -4540404472547997614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 142
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999574269c09c1c46b2a5ff4c33ca938
+      internalID: 5150567487587720882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 142
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d8cec6451f0341913d8a3cffffb7f
+      internalID: -861418899169965697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 142
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a393859045fb14980a2937a438ac15
+      internalID: -7554849263015595366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 142
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303cad15ceca7a04b8f643ee1a982328
+      internalID: 6090977454022862962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decbc75b0ed4c16419573970bfe7001d
+      internalID: -6090495163329812201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7f8e2789c32747ac3418bb6342ae3
+      internalID: 931780201085256377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 85
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca4e36f2999374595e99369ce66200
+      internalID: -8492606093354326443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 85
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c1ba1c45dcb9419ad6181aa41682d
+      internalID: -217325810428512185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 85
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c629f96e238b04bb1c87a8a2f6422a
+      internalID: 7321646634472655311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06050a4b319694cbabeffcdb3ad1bf
+      internalID: -274091173432198656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2395d93fc11199c4188c08adf726545c
+      internalID: 2197597578174012803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0381e69ad6988fe44bfba759c46422ad
+      internalID: 8375706676553593204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 85
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bced7deb149014aa25bee7c9babbdc
+      internalID: 6182115291129437772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_46
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 85
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531173f18a3c404897bb8c5ba172f6e
+      internalID: 2228272731039733695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_47
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 85
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71baa44a557cba447af49693669b9600
+      internalID: 5766895273494661875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_48
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 85
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301d11458e026114685ea2e25f1d363b
+      internalID: -9199135200430020904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_49
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 85
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85d55e5ba5f7e4fb774746ea051b44
+      internalID: 2875321503005438389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da659f1853e9274f83cc28bc83046bb
+      internalID: -5526497287907606999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1436181a154c441af86bc711636db4
+      internalID: 8460394596998704241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05523788e0e56954b9184836e7e806e6
+      internalID: 4615254438898621815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 20
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c206bc37165c974e85526b7e351e857
+      internalID: -218857900430078419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 20
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5237a4cda913e41bd39e5ece4f4d1e
+      internalID: 5489939289118517339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 20
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0313829658774082eb80ae28ab3f7
+      internalID: -1901459904819984502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 20
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494483c0ce3e4c74d94de84c5028fe4d
+      internalID: 1892774849022039403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 20
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e73399d0cc07d40b726f4b0351ffa5
+      internalID: 6559022285339041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 20
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f9c9f98ea63f459f2478700661d32
+      internalID: 1905293433731360078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 20
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56af08c6c24ec7940b634a8e5f291602
+      internalID: 5844420727753790997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 20
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278865f61537ffb4c9174735604b6eda
+      internalID: 2306906095625441001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_61
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 20
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ed709bb664a146bc4b3d96f68feaa
+      internalID: 2583881714570451775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_62
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 20
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2469dc11899ad4385737db64013b94
+      internalID: 3864888504830612597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_63
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 20
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a517845e162564a872fcd6b9995bf0
+      internalID: -7029780714250594591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 20
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fd08bb6a4c4144a917b7c039809c4
+      internalID: 7648057861090990649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_short_sprite_sheet_by_dantewreckmen_999_dba5nqy_65
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 20
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f683f73b1b7d949b4bcee559120851
+      internalID: 3795597757539024114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

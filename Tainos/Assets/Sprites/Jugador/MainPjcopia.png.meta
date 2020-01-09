@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 1dac66afd29876246a24a962c440b4a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3761152427987754827
+    second: MainPjcopia_0
+  - first:
+      213: -1379073420083252223
+    second: MainPjcopia_1
+  - first:
+      213: -6402608237354346546
+    second: MainPjcopia_2
+  - first:
+      213: -5339381941973909702
+    second: MainPjcopia_3
+  - first:
+      213: 1333731039634955002
+    second: MainPjcopia_4
+  - first:
+      213: -6951163451105868195
+    second: MainPjcopia_5
+  - first:
+      213: 1708173612840747084
+    second: MainPjcopia_6
+  - first:
+      213: 4662224514013961630
+    second: MainPjcopia_7
+  - first:
+      213: 4997326475550871427
+    second: MainPjcopia_8
+  - first:
+      213: -7152149137830991963
+    second: MainPjcopia_9
+  - first:
+      213: -573427258105582076
+    second: MainPjcopia_10
+  - first:
+      213: 2670444206823309027
+    second: MainPjcopia_11
+  - first:
+      213: -4916737919052014197
+    second: MainPjcopia_12
+  - first:
+      213: -4113216913639033433
+    second: MainPjcopia_13
+  - first:
+      213: 2474866601306914780
+    second: MainPjcopia_14
+  - first:
+      213: -4530410549047561620
+    second: MainPjcopia_15
+  - first:
+      213: 8472985691429255616
+    second: MainPjcopia_16
+  - first:
+      213: -4588414805283055506
+    second: MainPjcopia_17
+  - first:
+      213: -3618034267437275249
+    second: MainPjcopia_18
+  - first:
+      213: 364276365269291197
+    second: MainPjcopia_19
+  - first:
+      213: -2639828349766746719
+    second: MainPjcopia_20
+  - first:
+      213: -982472109069963344
+    second: MainPjcopia_21
+  - first:
+      213: -2745997407478671390
+    second: MainPjcopia_22
+  - first:
+      213: 337148653514932473
+    second: MainPjcopia_23
+  - first:
+      213: 1151180657981000718
+    second: MainPjcopia_24
+  - first:
+      213: -7103321350326425594
+    second: MainPjcopia_25
+  - first:
+      213: 4314720272195765415
+    second: MainPjcopia_26
+  - first:
+      213: -2449262430829340195
+    second: MainPjcopia_27
+  - first:
+      213: 2951144823005089126
+    second: MainPjcopia_28
+  - first:
+      213: 5190815541328444827
+    second: MainPjcopia_29
+  - first:
+      213: -3820157318944994366
+    second: MainPjcopia_30
+  - first:
+      213: 4562589596090381421
+    second: MainPjcopia_31
+  - first:
+      213: 4373244792429220392
+    second: MainPjcopia_32
+  - first:
+      213: 681319792331553675
+    second: MainPjcopia_33
+  - first:
+      213: -3119401543053932756
+    second: MainPjcopia_34
+  - first:
+      213: 6190891189489263425
+    second: MainPjcopia_35
+  - first:
+      213: 4683284365715924098
+    second: MainPjcopia_36
+  - first:
+      213: 1794817888990499917
+    second: MainPjcopia_37
+  - first:
+      213: -74982691127015007
+    second: MainPjcopia_38
+  - first:
+      213: 3873555745847202088
+    second: MainPjcopia_39
+  - first:
+      213: -13028193853155561
+    second: MainPjcopia_40
+  - first:
+      213: -7532191792134825354
+    second: MainPjcopia_41
+  - first:
+      213: -717083339975353031
+    second: MainPjcopia_42
+  - first:
+      213: 674646729556351493
+    second: MainPjcopia_43
+  - first:
+      213: -8819668365040022133
+    second: MainPjcopia_44
+  - first:
+      213: 1465351360829256747
+    second: MainPjcopia_45
+  - first:
+      213: 7290925309344155284
+    second: MainPjcopia_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainPjcopia_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 386
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9da8a47aff094394ca67c69417491
+      internalID: -3761152427987754827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d97a10ea8124439c9e6cf72b8af34
+      internalID: -1379073420083252223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fee91753055f43b5ca82c60fabe30
+      internalID: -6402608237354346546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 386
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe670eb2a7fab7428d95c12d0796ace
+      internalID: -5339381941973909702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 386
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b7666f7956fc4458caae1bbef5822b
+      internalID: 1333731039634955002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 386
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16445ccbde7cde543807905df0f36672
+      internalID: -6951163451105868195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 386
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd244f7988b94249a05e3940c89b4c6
+      internalID: 1708173612840747084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 322
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da3f33ebbd30f4ca87778f81ed1bad
+      internalID: 4662224514013961630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89fea628e7e27a42b5bb1a408469f3b
+      internalID: 4997326475550871427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 321
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc220119888b64b8b3dc4d81064fb7
+      internalID: -7152149137830991963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 322
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4ddb0f0867f548bbc9a361d4b3bdc
+      internalID: -573427258105582076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 322
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118bc72515d9a1e4d9a519219ab21dea
+      internalID: 2670444206823309027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 323
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c028ee76433e40408bb8b6f72239d09
+      internalID: -4916737919052014197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 323
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f2fc63d6d615340b4c283b3dfa7798
+      internalID: -4113216913639033433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 258
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96580ecedb0434a84089079c6a21a7
+      internalID: 2474866601306914780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae08caff157ec4c921b73eb887c0ef
+      internalID: -4530410549047561620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 258
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc458ad2de4774f40ab28c7957a15af6
+      internalID: 8472985691429255616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 258
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfab3a4ce45988498ae705ddb1b9a65
+      internalID: -4588414805283055506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 258
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd816a8b65a06b14591b03abdac5d827
+      internalID: -3618034267437275249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a2a93562813ac4d88271aac4e6ad08
+      internalID: 364276365269291197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 258
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741d31e1331d7544866892ba41f0289
+      internalID: -2639828349766746719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8cb152d683d4d41ada3a1f988732db
+      internalID: -982472109069963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8734dbbc0718f4397c522bb8745d6a
+      internalID: -2745997407478671390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79aa7a9a52c3e428317899e5cbd5d4
+      internalID: 337148653514932473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 194
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e83b679eb355d4a97f9bacdcc025aa
+      internalID: 1151180657981000718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 194
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6307c424e1d64e86196b66779c6bc
+      internalID: -7103321350326425594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a75baaaeab574bac27d7ab6967901
+      internalID: 4314720272195765415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 194
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51ceff4ad8ffa4f9f7d80687f701f8
+      internalID: -2449262430829340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa49e32356b61408b3fc516c000da2
+      internalID: 2951144823005089126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edb08e898e3e14ca839c50c0c96dd1
+      internalID: 5190815541328444827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a038beba2ea143abfdc97e9ddee5f
+      internalID: -3820157318944994366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d89cb85384c6949bc72ffe9b2b0d42
+      internalID: 4562589596090381421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf838e56598cd40804d0e072433f89
+      internalID: 4373244792429220392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 130
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91391f35555e3e247b3c413475a63348
+      internalID: 681319792331553675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 130
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066912c820318d4a89e5ec053503d45
+      internalID: -3119401543053932756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3beeae7f538f42b8748e309c4f9a3
+      internalID: 6190891189489263425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d34ce39f9a554f8e1971c6a74b8bc
+      internalID: 4683284365715924098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e207cd52bd82e242be3a24ae97e38c7
+      internalID: 1794817888990499917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 67
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27057e3a16b11474290deace9505eb19
+      internalID: -74982691127015007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_39
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 65
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac397ac63ab334dab80efaddc8dd5c
+      internalID: 3873555745847202088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 66
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121e53cae1e1ff418824af91c12566a
+      internalID: -13028193853155561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 67
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb2d3dbf56bf4f42b5d049e94ea8e6a
+      internalID: -7532191792134825354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a10c2c5af4184ea471c430c0afc02
+      internalID: -717083339975353031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac0816916ef2649a3f0cbefba8fd68
+      internalID: 674646729556351493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c117264cda354693e1cdcd2e719f6
+      internalID: -8819668365040022133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df55f466f444847a30b5ca4459d87c
+      internalID: 1465351360829256747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainPjcopia_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347327d6051f4e14cb66bab72e1b24ae
+      internalID: 7290925309344155284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
